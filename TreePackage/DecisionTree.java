@@ -45,8 +45,8 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 
 	@Override
 	public T getCurrentData() {
-		return data;
-		//return null;
+		//return data;
+		return null;
 	}
 
 	@Override

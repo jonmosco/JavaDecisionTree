@@ -1,6 +1,6 @@
 package TreePackage;
 
-class BinaryNode<T> implements BinaryNodeInterface<T> {
+class BinaryNode<T> implements BinaryNodeInterface<T >{
 	
 	private T data;
     private BinaryNode < T > left;
@@ -71,18 +71,6 @@ class BinaryNode<T> implements BinaryNodeInterface<T> {
             newRoot.right = (BinaryNode < T > ) right.copy ();
         return newRoot;
     } // end copy
-
-
-    private void privateSetTree (T rootData, BinaryTree <T> leftTree, BinaryTree <T> rightTree) {
-    	
-        root = new BinaryNode<T> (rootData);
-    
-        if ((leftTree != null) && !leftTree.isEmpty ())
-            root.setLeftChild (leftTree.root.copy ());
-        if ((rightTree != null) && !rightTree.isEmpty ())
-            root.setRightChild (rightTree.root.copy ());
-    
-    } 
 
     public int getHeight ()
     {

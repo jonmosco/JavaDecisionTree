@@ -1,12 +1,10 @@
 package TreePackage;
 
 import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.Queue;
 
 public class BinaryTree<T> implements BinaryTreeInterface<T> {
 
-	private BinaryNodeInterface<T> root;
+	private BinaryNode<T> root;
 
 	// default constructor
 	public BinaryTree() {
@@ -22,7 +20,7 @@ public class BinaryTree<T> implements BinaryTreeInterface<T> {
 	} // end constructor
 
 	public void setTree(T rootData) {
-		root = new BinaryNode<T>(rootData);
+		root = new BinaryNode<>(rootData);
 	} // end setTree
 
 	public void setTree(T rootData, BinaryTreeInterface<T> leftTree, BinaryTreeInterface<T> rightTree) {
@@ -33,17 +31,35 @@ public class BinaryTree<T> implements BinaryTreeInterface<T> {
 		/* FIRST DRAFT - See Segments 24.5 - 24.8 for improvements. */
 
 		root = new BinaryNode<T>(rootData);
-		if (leftTree != null)
+
+		if ((leftTree != null) && !leftTree.isEmpty())
 			root.setLeftChild(leftTree.root);
-		if (rightTree != null)
-			root.setRightChild(rightTree.root);
-	} 
+		if ((rightTree != null) && !rightTree.isEmpty()) {
+			if (rightTree != leftTree)
+				root.setRightChild(rightTree.root);
+			else
+				root.setRightChild(rightTree.root.copy());
+		} // end if
+		if ((leftTree != null) && (leftTree != this))
+			leftTree.clear();
+		if ((rightTree != null) && (rightTree != this))
+			rightTree.clear();
+	} // end privateSetTree
+
 
 	public T getRootData() {
-		T rootData = null;
-		if (root != null)
-			rootData = root.getData();
-		return rootData;
+		//T rootData = null;
+		//if (root != null)
+		//	rootData = root.getData();
+		//return rootData;
+		
+		if (isEmpty()) {
+			return null;
+			//throw new EmptyTreeException();
+		} else {
+			return root.getData();
+		}
+		
 	} // end getRootData
 
 	public boolean isEmpty() {
@@ -58,7 +74,7 @@ public class BinaryTree<T> implements BinaryTreeInterface<T> {
 		root.setData(rootData);
 	} // end setRootData
 
-	protected void setRootNode(BinaryNodeInterface<T> rootNode) {
+	protected void setRootNode(BinaryNode<T> rootNode) {
 		root = rootNode;
 	} // end setRootNode
 
@@ -87,7 +103,7 @@ public class BinaryTree<T> implements BinaryTreeInterface<T> {
 	}
 
 	public Iterator<T> getInorderIterator() {
-		//return new InorderIterator();
+		// return new InorderIterator();
 		return null;
 	}
 
@@ -95,9 +111,9 @@ public class BinaryTree<T> implements BinaryTreeInterface<T> {
 	public Iterator<T> getLevelOrderIterator() {
 		// TODO Auto-generated method stub
 		return null;
-		//return new LevelOrderTraversal();
+		// return new LevelOrderTraversal();
 	}
-	
+
 	public void LevelOrderTraversal() {
 	}
 }
