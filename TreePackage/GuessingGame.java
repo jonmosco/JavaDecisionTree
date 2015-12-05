@@ -12,9 +12,9 @@ public class GuessingGame {
 	// default constructor
 	public GuessingGame(String question, String noAnswer, String yesAnswer) {
 		// left node
-		DecisionTree<String> no = new DecisionTree<String>(noAnswer);
+		DecisionTree<String> no = new DecisionTree<>(noAnswer);
 		// right node
-		DecisionTree<String> yes = new DecisionTree<String>(yesAnswer);
+		DecisionTree<String> yes = new DecisionTree<>(yesAnswer);
 		
 		// root node
 		tree = new DecisionTree<String>(question, no, yes);

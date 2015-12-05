@@ -18,7 +18,7 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 	}
 	
 	public DecisionTree(T rootData) {
-		root = new DecisionTree<>(rootData);
+		//root = new DecisionTree<>(rootData);
 	}
 	
 	// default constructor
