@@ -16,6 +16,8 @@ public class PlayGame {
 		
 		newGame.setTree("Is it a Car?");
 		
+		newGame.equals("");
+		
 		System.out.println(newGame.getNumberOfNodes());
 		
 		// System.out.println(newGame);

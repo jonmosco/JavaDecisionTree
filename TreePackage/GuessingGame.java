@@ -1,12 +1,15 @@
 package TreePackage;
 
 import java.util.Scanner;
+import TreePackage.DecisionTreeInterface;
+import TreePackage.DecisionTree;
 
 /*
  * @author Jon Mosco
  */
 
 public class GuessingGame {
+	
 	private DecisionTreeInterface<String> tree;
 
 	// default constructor
@@ -42,6 +45,9 @@ public class GuessingGame {
 			learn();
 	}
 
+	// The private method learn asks the user for a question 
+	// that distinguishes between two guesses. Using this information,
+	// the method adds nodes to the decision tree
 	private void learn() {
 		
 		// create a scanner

@@ -9,8 +9,9 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 	
 	private DecisionTree<T> root;
 	
-	//private T data;
-	//private String no;
+	private String data;
+    private DecisionTree<String> left;
+    private DecisionTree<String> right;
 	
 	// no arg constructor
 	public DecisionTree() {
@@ -18,7 +19,7 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 	}
 	
 	public DecisionTree(T rootData) {
-		//root = new DecisionTree<>(rootData);
+		root = new DecisionTree<>(rootData);
 	}
 	
 	// default constructor
@@ -27,14 +28,14 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 	}
 
 	public DecisionTree(String question, DecisionTree<String> no, DecisionTree<String> yes) {
-		// TODO Auto-generated constructor stub
+		data = question;
+		left = no;
+		right = yes;
 	}
 
 	@Override
 	public void setTree(T rootData) {
 		root = new DecisionTree<>(rootData);
-		// TODO Auto-generated method stub
-		
 	}
 
 	@Override
@@ -138,6 +139,5 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 		// TODO Auto-generated method stub
 		return null;
 	}
-
 
 }
