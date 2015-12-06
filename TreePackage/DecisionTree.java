@@ -62,10 +62,11 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 		return false;
 	}
 
+	@SuppressWarnings("unchecked")
 	@Override
 	public void advanceToNo() {
 		// TODO Auto-generated method stub
-		
+		data = (T) left;
 	}
 
 	@SuppressWarnings("unchecked")

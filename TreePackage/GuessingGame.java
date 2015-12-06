@@ -29,13 +29,17 @@ public class GuessingGame {
 		while (!tree.isAnswer()) {
 			// ask current question
 			System.out.println(tree.getCurrentData());
+			System.out.println("Inside while loop");
 			
 			if (Client.isUserResponseYes())
 				tree.advanceToYes();
 			else
 				tree.advanceToNo();
 		} // end while
-		assert tree.isAnswer(); // Assertion: leaf is reached
+		
+		// Assertion: leaf is reached
+		assert tree.isAnswer();
+		
 		// make guess
 		System.out.println("My guess is " + tree.getCurrentData() + ". Am I right?");
 		if (Client.isUserResponseYes())
@@ -49,6 +53,8 @@ public class GuessingGame {
 	// the method adds nodes to the decision tree
 	private void learn() {
 		
+		tree.advanceToYes();
+		tree.advanceToNo();
 		tree.setTree("Is the car a chevy?");
 		tree.setTree("Is the car a nissan?");
 		
