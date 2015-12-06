@@ -60,20 +60,18 @@ public class GuessingGame {
 	// the method adds nodes to the decision tree
 	private void learn() {
 		
-		// read in our file
+		// read in our file.  Seperate the data from the code
 		String carFile = "src/TreePackage/CarTree";
 		
 		try (Scanner scanner = new Scanner(new File(carFile))) {
 			while (scanner.hasNext()){
 				//System.out.println(scanner.nextLine());
 				tree.setCurrentData(scanner.nextLine());
-				System.out.println(tree.isAnswer());
+				System.out.println("My guess is " + tree.getCurrentData() + ". Am I right?");
 			}
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		
-		System.out.println("Is the car foreign?");
 
 	}
 
