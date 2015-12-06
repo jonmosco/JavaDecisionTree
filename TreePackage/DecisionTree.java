@@ -77,7 +77,7 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 	@Override
 	public void reset() {
 		System.out.println("inside reset()");
-		data = root;
+		root = data;
 	}
 
 	@Override

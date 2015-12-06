@@ -21,8 +21,6 @@ public class Client {
 
 		if (answer == "yes") {
 			isUserResponseYes();
-		} else {
-			// 
 		}
 		
 	}
@@ -38,6 +36,7 @@ public class Client {
 
 	public static boolean isUserResponseYes() {
 		return true;
+
 	}
 
 }
