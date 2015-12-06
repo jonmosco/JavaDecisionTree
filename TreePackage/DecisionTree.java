@@ -9,8 +9,8 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 	
 	private T root;
 	private T data;
-    private BinaryTreeInterface<T> left;
-    private BinaryTreeInterface<T> right;
+    private DecisionTree<String> left;
+    private DecisionTree<String> right;
 	
     public DecisionTree() {
     	this (null);
@@ -18,23 +18,19 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
     
 	public DecisionTree(T question, DecisionTree<String> no, DecisionTree<String> yes) {
 		data = question;
-
+		left = no;
+		right = yes;
 	}
 
 	public DecisionTree(String yesAnswer) {
-		
 	}
 
-	@Override
 	public void setTree(T rootData) {
 		root = rootData;
 	}
 
-	@Override
 	public void setTree(T rootData, BinaryTreeInterface<T> leftTree, BinaryTreeInterface<T> rightTree) {
 		data = rootData;
-		left = leftTree;
-		right = rightTree;
 		
 	}
 
@@ -59,7 +55,6 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 
 	@Override
 	public boolean isAnswer() {
-		// TODO Auto-generated method stub
 		return false;
 	}
 
@@ -81,7 +76,7 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 
 	@Override
 	public void reset() {
-		System.out.println("reset");
+		System.out.println("inside reset()");
 		data = root;
 	}
 

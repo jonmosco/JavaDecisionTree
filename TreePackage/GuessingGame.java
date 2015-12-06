@@ -2,7 +2,9 @@ package TreePackage;
 
 import TreePackage.DecisionTreeInterface;
 
+import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.util.Scanner;
@@ -23,15 +25,13 @@ public class GuessingGame {
 		DecisionTree<String> no = new DecisionTree<String>(noAnswer);
 		// right node
 		DecisionTree<String> yes = new DecisionTree<String>(yesAnswer);
-		
 		// root node
 		tree = new DecisionTree<String>(question, no, yes);
 	}
 
 	public void play() {
-		
-		tree.reset();
 		System.out.println("inside play()");
+		tree.reset();
 		
 		while (!tree.isAnswer()) {
 			// ask current question
@@ -58,26 +58,23 @@ public class GuessingGame {
 	// The private method learn asks the user for a question 
 	// that distinguishes between two guesses. Using this information,
 	// the method adds nodes to the decision tree
-	@SuppressWarnings("resource")
 	private void learn() {
 		
-		String question;
+		// read in our file
+		String carFile = "src/TreePackage/CarTree";
 		
-		Scanner input = new Scanner( System.in );
+		try (Scanner scanner = new Scanner(new File(carFile))) {
+			while (scanner.hasNext()){
+				//System.out.println(scanner.nextLine());
+				tree.setCurrentData(scanner.nextLine());
+				System.out.println(tree.isAnswer());
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 		
 		System.out.println("Is the car foreign?");
-		question = input.next();
-		tree.setCurrentData(question);
-		
-		tree.advanceToYes();
-		tree.setTree("Is the car a chevy?");
-		System.out.println(tree.getCurrentData());
-		tree.advanceToNo();
-		tree.setTree("Is the car a nissan?");
-		System.out.println(tree.getCurrentData());
-		tree.advanceToYes();
-		Client.isUserResponseYes();
-		
+
 	}
 
 }
