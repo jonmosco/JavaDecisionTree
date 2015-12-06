@@ -1,44 +1,36 @@
 package TreePackage;
+
+import java.util.Scanner;
+
 /*
  * @author Jon Mosco
  */
 
 public class PlayGame {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		
-		GuessingGame carGame = new GuessingGame(null, null, null);
+		// ask our question
+		String question;
 		
-		//carGame.play();
+		Scanner input = new Scanner( System.in );
 		
-		// generate our tree
-		DecisionTree<String> newGame = new DecisionTree<String>();
+		System.out.println("Is the car foreign?");
+		question = input.next();
 		
-		newGame.setTree("Is it a Car?");
+		BinaryTree<String> ourTree = new BinaryTree<String>();
 		
-		newGame.equals("");
+		ourTree.setTree(question);
 		
-		System.out.println(newGame.getNumberOfNodes());
 		
-		// System.out.println(newGame);
+		GuessingGame carGame = new GuessingGame("Is it domestic?", "Is the car Foreign", "Is the car a Honda?");
 		
-		// newGame.advanceToYes();
+		carGame.play();
 		
-		BinaryTreeInterface<String> aTree = new BinaryTree<String>();
+		// test: output our root data
+		//System.out.println(ourTree.getRootData());
 		
-		BinaryTreeInterface<String> bTree = new BinaryTree<String>();
-		
-		BinaryTreeInterface<String> cTree = new BinaryTree<String>();
-		
-		aTree.setTree("A", bTree, cTree);
-		
-		//bTree.setTree("B");
-		cTree.setTree("C");
-
-		bTree.setTree("B", cTree, bTree);
-		//aTree.setTree("Car");
-
-		System.out.println(aTree.getNumberOfNodes());
 
 	}
 

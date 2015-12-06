@@ -1,6 +1,5 @@
 package TreePackage;
 
-import java.util.Scanner;
 import TreePackage.DecisionTreeInterface;
 import TreePackage.DecisionTree;
 
@@ -15,9 +14,9 @@ public class GuessingGame {
 	// default constructor
 	public GuessingGame(String question, String noAnswer, String yesAnswer) {
 		// left node
-		DecisionTree<String> no = new DecisionTree<>(noAnswer);
+		DecisionTree<String> no = new DecisionTree<String>(noAnswer);
 		// right node
-		DecisionTree<String> yes = new DecisionTree<>(yesAnswer);
+		DecisionTree<String> yes = new DecisionTree<String>(yesAnswer);
 		
 		// root node
 		tree = new DecisionTree<String>(question, no, yes);
@@ -50,17 +49,8 @@ public class GuessingGame {
 	// the method adds nodes to the decision tree
 	private void learn() {
 		
-		// create a scanner
-		@SuppressWarnings("resource")
-		Scanner input = new Scanner(System.in);
-		
-		// ask the user for a question
-		System.out.println("Is your car foreign?");
-		String answer = input.nextLine();
-		
-		if (answer == "Yes") {
-		} else {
-		}
+		tree.setTree("Is the car a chevy?");
+		tree.setAnswers("Is the car a honda?", "Is the car a nissan?");
 		
 	}
 

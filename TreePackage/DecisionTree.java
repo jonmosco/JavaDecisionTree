@@ -7,53 +7,46 @@ import java.util.Iterator;
 
 public class DecisionTree<T> implements DecisionTreeInterface<T> {
 	
-	private DecisionTree<T> root;
+	private T data;
+    private BinaryTreeInterface<T> left;
+    private BinaryTreeInterface<T> right;
 	
-	private String data;
-    private DecisionTree<String> left;
-    private DecisionTree<String> right;
-	
-	// no arg constructor
-	public DecisionTree() {
-		root = null;
-	}
-	
-	public DecisionTree(T rootData) {
-		root = new DecisionTree<>(rootData);
-	}
-	
-	// default constructor
-	public DecisionTree(String noAnswer) {
-		//no = noAnswer;
+    public DecisionTree() {
+    	this (null);
+    }
+    
+	public DecisionTree(T question, DecisionTree<String> no, DecisionTree<String> yes) {
+		data = question;
 	}
 
-	public DecisionTree(String question, DecisionTree<String> no, DecisionTree<String> yes) {
-		data = question;
-		left = no;
-		right = yes;
+	public DecisionTree(String yesAnswer) {
+		// TODO Auto-generated constructor stub
 	}
 
 	@Override
 	public void setTree(T rootData) {
-		root = new DecisionTree<>(rootData);
+		//root = new DecisionTree<String>(rootData);
 	}
 
 	@Override
 	public void setTree(T rootData, BinaryTreeInterface<T> leftTree, BinaryTreeInterface<T> rightTree) {
-		// TODO Auto-generated method stub
+		data = rootData;
+		left = leftTree;
+		right = rightTree;
 		
 	}
 
-	@Override
 	public T getCurrentData() {
-		//return data;
-		return null;
+		if (data != null) {
+			return data;
+		} else {
+			return null;
+		}
 	}
 
 	@Override
 	public void setCurrentData(T newData) {
-		// TODO Auto-generated method stub
-		
+		data = newData;
 	}
 
 	@Override
@@ -75,8 +68,11 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 	}
 
 	@Override
+	/** Sets the current node to its right child.
+    If the child does not exist, sets the current node to null.
+    Precondition: The current node is not null. */
 	public void advanceToYes() {
-		// TODO Auto-generated method stub
+		
 		
 	}
 

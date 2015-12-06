@@ -18,8 +18,7 @@ class BinaryNode<T> implements BinaryNodeInterface<T >{
     } // end constructor
 
 
-    public BinaryNode (T dataPortion, BinaryNode < T > leftChild,
-            BinaryNode < T > rightChild)
+    public BinaryNode (T dataPortion, BinaryNode <T> leftChild, BinaryNode <T> rightChild)
     {
         data = dataPortion;
         left = leftChild;
@@ -103,21 +102,17 @@ class BinaryNode<T> implements BinaryNodeInterface<T >{
 
 	@Override
 	public BinaryNodeInterface<T> getRightChild() {
-		// TODO Auto-generated method stub
-		return null;
+		return right;
 	}
-
 
 	@Override
 	public void setRightChild(BinaryNodeInterface<T> rightChild) {
-		// TODO Auto-generated method stub
+		right = (BinaryNode < T > ) rightChild;
 		
 	}
 
-
 	@Override
 	public boolean hasRightChild() {
-		// TODO Auto-generated method stub
-		return false;
+		return right != null;
 	}
 }

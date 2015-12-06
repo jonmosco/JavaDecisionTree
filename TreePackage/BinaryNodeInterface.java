@@ -42,7 +42,7 @@ public interface BinaryNodeInterface<T> {
     public int getNumberOfNodes ();
     
     /** Computes the height of the subtree rooted at this node.
-    @return the height of tthe subtree rooted at this node */
+    @return the height of the subtree rooted at this node */
     public int getHeight ();
     
     /** Copies the subtree rooted at this node.
