@@ -54,8 +54,8 @@ public class GuessingGame {
 	private void learn() {
 		
 		tree.advanceToYes();
-		tree.advanceToNo();
 		tree.setTree("Is the car a chevy?");
+		tree.advanceToNo();
 		tree.setTree("Is the car a nissan?");
 		
 	}
