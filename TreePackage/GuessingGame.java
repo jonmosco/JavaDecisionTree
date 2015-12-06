@@ -3,10 +3,7 @@ package TreePackage;
 import TreePackage.DecisionTreeInterface;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.io.PrintWriter;
-import java.io.UnsupportedEncodingException;
 import java.util.Scanner;
 
 import TreePackage.DecisionTree;
@@ -35,6 +32,8 @@ public class GuessingGame {
 		
 		while (!tree.isAnswer()) {
 			// ask current question
+			// test
+			tree.setCurrentData("Is the car domestic?");
 			System.out.println(tree.getCurrentData());
 			System.out.println("Inside while loop");
 			
@@ -60,7 +59,7 @@ public class GuessingGame {
 	// the method adds nodes to the decision tree
 	private void learn() {
 		
-		// read in our file.  Seperate the data from the code
+		// read in our file.  Separate the data from the code
 		String carFile = "src/TreePackage/CarTree";
 		
 		try (Scanner scanner = new Scanner(new File(carFile))) {

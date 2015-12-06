@@ -7,6 +7,25 @@ import java.util.Scanner;
  */
 
 public class Client {
+	
+	public static void main(String[] args) {
+		
+		GuessingGame carGame = new GuessingGame("is the car domestic?", null, null);
+		
+		carGame.play();		
+		
+		@SuppressWarnings("resource")
+		Scanner scanner = new Scanner(System.in); 
+		System.out.println("Yes or No: ");
+		String answer = scanner.next();
+
+		if (answer == "yes") {
+			isUserResponseYes();
+		} else {
+			// 
+		}
+		
+	}
 
 	/*
 	 * The public method play uses methods of DecisionTree to maintain the tree.
@@ -18,16 +37,7 @@ public class Client {
 	 */
 
 	public static boolean isUserResponseYes() {
-		@SuppressWarnings("resource")
-		Scanner scanner = new Scanner(System.in); 
-		System.out.println("Yes or No: ");
-		String answer = scanner.next();
-
-		if (answer == "yes") {
-			return true;
-		} else {
-			return false;
-		}
+		return true;
 	}
 
 }
