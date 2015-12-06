@@ -17,6 +17,7 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
     
 	public DecisionTree(T question, DecisionTree<String> no, DecisionTree<String> yes) {
 		data = question;
+
 	}
 
 	public DecisionTree(String yesAnswer) {
@@ -67,13 +68,13 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 		
 	}
 
+	@SuppressWarnings("unchecked")
 	@Override
 	/** Sets the current node to its right child.
     If the child does not exist, sets the current node to null.
     Precondition: The current node is not null. */
 	public void advanceToYes() {
-		
-		
+		data = (T) right;
 	}
 
 	@Override

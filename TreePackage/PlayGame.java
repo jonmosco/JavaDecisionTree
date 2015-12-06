@@ -23,7 +23,6 @@ public class PlayGame {
 		
 		ourTree.setTree(question);
 		
-		
 		GuessingGame carGame = new GuessingGame("Is it domestic?", "Is the car Foreign", "Is the car a Honda?");
 		
 		carGame.play();

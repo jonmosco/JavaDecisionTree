@@ -50,7 +50,7 @@ public class GuessingGame {
 	private void learn() {
 		
 		tree.setTree("Is the car a chevy?");
-		tree.setAnswers("Is the car a honda?", "Is the car a nissan?");
+		tree.setTree("Is the car a nissan?");
 		
 	}
 
