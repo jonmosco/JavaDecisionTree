@@ -1,6 +1,6 @@
 package TreePackage;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 /*
  * @author Jon Mosco
@@ -8,28 +8,15 @@ import java.util.Scanner;
 
 public class PlayGame {
 
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		
-		// ask our question
-		String question;
+		//BinaryTree<String> ourTree = new BinaryTree<String>();
 		
-		Scanner input = new Scanner( System.in );
+		//ourTree.setTree(question);
 		
-		System.out.println("Is the car foreign?");
-		question = input.next();
-		
-		BinaryTree<String> ourTree = new BinaryTree<String>();
-		
-		ourTree.setTree(question);
-		
-		
-		GuessingGame carGame = new GuessingGame("Is it domestic?", "Is the car Foreign", "Is the car a Honda?");
+		GuessingGame carGame = new GuessingGame("nissan", "no", "no");
 		
 		carGame.play();
-		
-		// test: output our root data
-		//System.out.println(ourTree.getRootData());
 		
 
 	}

@@ -7,6 +7,7 @@ import java.util.Iterator;
 
 public class DecisionTree<T> implements DecisionTreeInterface<T> {
 	
+	private T root;
 	private T data;
     private BinaryTreeInterface<T> left;
     private BinaryTreeInterface<T> right;
@@ -80,8 +81,8 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 
 	@Override
 	public void reset() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("reset");
+		data = root;
 	}
 
 	@Override

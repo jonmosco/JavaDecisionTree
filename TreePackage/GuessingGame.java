@@ -1,6 +1,9 @@
 package TreePackage;
 
 import TreePackage.DecisionTreeInterface;
+
+import java.util.Scanner;
+
 import TreePackage.DecisionTree;
 
 /*
@@ -51,12 +54,25 @@ public class GuessingGame {
 	// The private method learn asks the user for a question 
 	// that distinguishes between two guesses. Using this information,
 	// the method adds nodes to the decision tree
+	@SuppressWarnings("resource")
 	private void learn() {
+		
+		String question;
+		
+		Scanner input = new Scanner( System.in );
+		
+		System.out.println("Is the car foreign?");
+		question = input.next();
+		tree.setCurrentData(question);
 		
 		tree.advanceToYes();
 		tree.setTree("Is the car a chevy?");
+		System.out.println(tree.getCurrentData());
 		tree.advanceToNo();
 		tree.setTree("Is the car a nissan?");
+		System.out.println(tree.getCurrentData());
+		tree.advanceToYes();
+		Client.isUserResponseYes();
 		
 	}
 
