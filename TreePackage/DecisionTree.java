@@ -22,12 +22,12 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 	}
 
 	public DecisionTree(String yesAnswer) {
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	@Override
 	public void setTree(T rootData) {
-		//root = new DecisionTree<String>(rootData);
+		root = rootData;
 	}
 
 	@Override

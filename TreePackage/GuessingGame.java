@@ -2,6 +2,9 @@ package TreePackage;
 
 import TreePackage.DecisionTreeInterface;
 
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
 import java.util.Scanner;
 
 import TreePackage.DecisionTree;
@@ -28,6 +31,7 @@ public class GuessingGame {
 	public void play() {
 		
 		tree.reset();
+		System.out.println("inside play()");
 		
 		while (!tree.isAnswer()) {
 			// ask current question

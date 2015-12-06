@@ -14,11 +14,10 @@ public class PlayGame {
 		
 		//ourTree.setTree(question);
 		
-		GuessingGame carGame = new GuessingGame("nissan", "no", "no");
+		GuessingGame carGame = new GuessingGame("is the car domestic?", "Is the car foreign?", "Is the car a sedan?");
 		
 		carGame.play();
 		
-
 	}
 
 }

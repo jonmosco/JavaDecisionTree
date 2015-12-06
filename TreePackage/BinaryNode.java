@@ -100,18 +100,15 @@ class BinaryNode<T> implements BinaryNodeInterface<T >{
     } // end getNumberOfNodes
 
 
-	@Override
 	public BinaryNodeInterface<T> getRightChild() {
 		return right;
 	}
 
-	@Override
 	public void setRightChild(BinaryNodeInterface<T> rightChild) {
 		right = (BinaryNode < T > ) rightChild;
 		
 	}
 
-	@Override
 	public boolean hasRightChild() {
 		return right != null;
 	}
