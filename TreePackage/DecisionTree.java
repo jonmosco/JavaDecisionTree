@@ -14,11 +14,12 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 	
 
 	public DecisionTree() {
-		root = null;
+		this (null);
+		//root = null;
 	}
 	
 	public DecisionTree(String noAnswer) {
-		//left = noAnswer;
+		this (noAnswer, null, null);
 	}
 	
 	public DecisionTree(String question, DecisionTree<String> no, DecisionTree<String> yes) {
@@ -27,13 +28,12 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 	
 	// Gets the data in the current nod
 	public T getCurrentData() {
-		return root;
+		return data;
 	}
 
 	// Sets the data in the current node
 	public void setCurrentData(T newData) {
 		data = newData;
-		//data.setData(newData);
 	}
 
 	// Sets the data in the children of the current node,
@@ -42,22 +42,26 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 	public void setAnswers(T answerForNo, T answerForYes) {
 		left = (BinaryTreeInterface<T> ) answerForNo;
 		right = (BinaryTreeInterface<T> ) answerForYes;
-		//left = answerForNo;
 		
 	}
 
 	// Sees whether the current node contains an answer
 	public boolean isAnswer() {
-		// TODO Auto-generated method stub
 		return false;
 	}
 
+    /** Sets the current node to its left child.
+    If the child does not exist, sets the current node to null.
+    Precondition: The current node is not null. */
 	public void advanceToNo() {
-		//left = (BinaryNode < T > ) leftChild;
+		
 	}
 
+    /** Sets the current node to its right child.
+    If the child does not exist, sets the current node to null.
+    Precondition: The current node is not null. */
 	public void advanceToYes() {
-		//right = (BinaryNode < T > ) rightChild;
+		
 	}
 	
 	/** Makes the root of the tree the current node.*/
@@ -70,7 +74,7 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 
 	@Override
 	public void setTree(T rootData) {
-		//data = rootData;
+		data = rootData;
 		//root.setData(rootData);
 	}
 
