@@ -11,6 +11,7 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 	private T data;
 	private BinaryTreeInterface<T> left;
 	private BinaryTreeInterface<T> right;
+	
 
 	public DecisionTree() {
 		root = null;
@@ -26,19 +27,23 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 	
 	// Gets the data in the current nod
 	public T getCurrentData() {
-		
-		return data;
+		return root;
 	}
 
 	// Sets the data in the current node
 	public void setCurrentData(T newData) {
 		data = newData;
+		//data.setData(newData);
 	}
 
 	// Sets the data in the children of the current node,
     // creating them if they do not exist
+	@SuppressWarnings("unchecked")
 	public void setAnswers(T answerForNo, T answerForYes) {
-
+		left = (BinaryTreeInterface<T> ) answerForNo;
+		right = (BinaryTreeInterface<T> ) answerForYes;
+		//left = answerForNo;
+		
 	}
 
 	// Sees whether the current node contains an answer
@@ -52,7 +57,6 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 	}
 
 	public void advanceToYes() {
-		// TODO Auto-generated method stub
 		//right = (BinaryNode < T > ) rightChild;
 	}
 	
@@ -72,9 +76,9 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 
 	@Override
 	public void setTree(T rootData, BinaryTreeInterface<T> leftTree, BinaryTreeInterface<T> rightTree) {
-		//data = rootData;
-		//left = leftTree;
-		//right = rightTree;
+		data = rootData;
+		left = leftTree;
+		right = rightTree;
 		
 	}
 
@@ -123,7 +127,7 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 	@Override
 	public T getRootData() {
 		// TODO Auto-generated method stub
-		return null;
+		return root;
 	}
 
 	@Override
