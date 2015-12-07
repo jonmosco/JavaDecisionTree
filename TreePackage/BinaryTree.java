@@ -46,7 +46,6 @@ public class BinaryTree<T> implements BinaryTreeInterface<T> {
 			rightTree.clear();
 	} // end privateSetTree
 
-
 	public T getRootData() {
 		//T rootData = null;
 		//if (root != null)
