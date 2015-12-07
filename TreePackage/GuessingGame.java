@@ -78,11 +78,11 @@ public class GuessingGame {
 	private void learn() {
 		
 		// read in our file.  Separate the data from the code
-		String carFile = "src/TreePackage/CarTree";
+		String carFile = "src/CarTree.txt";
 		
 		try (Scanner scanner = new Scanner(new File(carFile))) {
 			while (scanner.hasNext()){
-				//System.out.println(scanner.nextLine());
+				System.out.println(scanner.nextLine());
 				tree.setCurrentData(scanner.nextLine());
 				System.out.println("My guess is " + tree.getCurrentData() + ". Am I right?");
 				

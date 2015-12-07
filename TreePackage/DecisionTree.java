@@ -7,8 +7,12 @@ import java.util.Iterator;
 
 public class DecisionTree<T> implements DecisionTreeInterface<T> {
 
+	private T data;
+	private BinaryTreeInterface<T> left;
+	private BinaryTreeInterface<T> right;
+
 	public DecisionTree(String noAnswer) {
-		// TODO Auto-generated constructor stub
+		//left = noAnswer;
 	}
 
 	public DecisionTree(String question, DecisionTree<String> no, DecisionTree<String> yes) {
@@ -17,26 +21,14 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 
 	@Override
 	public void setTree(T rootData) {
-		// TODO Auto-generated method stub
-		
+		data = rootData;
 	}
 
-	@Override
 	public void setTree(T rootData, BinaryTreeInterface<T> leftTree, BinaryTreeInterface<T> rightTree) {
-		// TODO Auto-generated method stub
+		data = rootData;
+		left = leftTree;
+		right = rightTree;
 		
-	}
-
-	@Override
-	public T getRootData() {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	@Override
-	public int getHeight() {
-		// TODO Auto-generated method stub
-		return 0;
 	}
 
 	@Override
@@ -81,25 +73,23 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 		return null;
 	}
 
-	@Override
+	// Gets the data in the current nod
 	public T getCurrentData() {
-		// TODO Auto-generated method stub
-		return null;
+		return data;
 	}
 
-	@Override
+	// Sets the data in the current node
 	public void setCurrentData(T newData) {
-		// TODO Auto-generated method stub
-		
+		data = newData;
 	}
 
-	@Override
+	// Sets the data in the children of the current node,
+    // creating them if they do not exist
 	public void setAnswers(T answerForNo, T answerForYes) {
-		// TODO Auto-generated method stub
-		
+
 	}
 
-	@Override
+	// Sees whether the current node contains an answer
 	public boolean isAnswer() {
 		// TODO Auto-generated method stub
 		return false;
@@ -116,12 +106,22 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 		// TODO Auto-generated method stub
 		
 	}
-
-	@Override
+	
+	/** Makes the root of the tree the current node.*/
 	public void reset() {
-		// TODO Auto-generated method stub
 		
 	}
-	
 
+	@Override
+	public T getRootData() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int getHeight() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
 }
