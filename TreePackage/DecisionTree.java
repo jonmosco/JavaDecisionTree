@@ -6,78 +6,25 @@ package TreePackage;
 import java.util.Iterator;
 
 public class DecisionTree<T> implements DecisionTreeInterface<T> {
-	
-	private T root;
-	private T data;
-    private DecisionTree<String> left;
-    private DecisionTree<String> right;
-	
-    public DecisionTree() {
-    	this (null);
-    }
-    
-	public DecisionTree(T question, DecisionTree<String> no, DecisionTree<String> yes) {
-		data = question;
-		left = no;
-		right = yes;
+
+	public DecisionTree(String noAnswer) {
+		// TODO Auto-generated constructor stub
 	}
 
-	public DecisionTree(String yesAnswer) {
+	public DecisionTree(String question, DecisionTree<String> no, DecisionTree<String> yes) {
+		// TODO Auto-generated constructor stub
 	}
 
+	@Override
 	public void setTree(T rootData) {
-		root = rootData;
+		// TODO Auto-generated method stub
+		
 	}
 
+	@Override
 	public void setTree(T rootData, BinaryTreeInterface<T> leftTree, BinaryTreeInterface<T> rightTree) {
-		data = rootData;
-		
-	}
-
-	public T getCurrentData() {
-		if (data != null) {
-			return data;
-		} else {
-			return null;
-		}
-	}
-
-	@Override
-	public void setCurrentData(T newData) {
-		data = newData;
-	}
-
-	@Override
-	public void setAnswers(T answerForNo, T answerForYes) {
 		// TODO Auto-generated method stub
 		
-	}
-
-	@Override
-	public boolean isAnswer() {
-		return false;
-	}
-
-	@SuppressWarnings("unchecked")
-	@Override
-	public void advanceToNo() {
-		// TODO Auto-generated method stub
-		data = (T) left;
-	}
-
-	@SuppressWarnings("unchecked")
-	@Override
-	/** Sets the current node to its right child.
-    If the child does not exist, sets the current node to null.
-    Precondition: The current node is not null. */
-	public void advanceToYes() {
-		data = (T) right;
-	}
-
-	@Override
-	public void reset() {
-		System.out.println("inside reset()");
-		root = data;
 	}
 
 	@Override
@@ -133,5 +80,48 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 		// TODO Auto-generated method stub
 		return null;
 	}
+
+	@Override
+	public T getCurrentData() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void setCurrentData(T newData) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void setAnswers(T answerForNo, T answerForYes) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public boolean isAnswer() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void advanceToNo() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void advanceToYes() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void reset() {
+		// TODO Auto-generated method stub
+		
+	}
+	
 
 }

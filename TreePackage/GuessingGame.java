@@ -14,9 +14,18 @@ import TreePackage.DecisionTree;
 
 public class GuessingGame {
 	
+	// create the initial tree
 	private DecisionTreeInterface<String> tree;
 
-	// default constructor
+	/*
+	 * This class begins with a decision tree
+	 * as a data field and a constructor that 
+	 * creates an initial tree. The tree has one yes-or-no 
+	 * question as its root and two guesses as children, one 
+	 * guess for each possible answer to the question. 
+	 * We assume that DecisionTree will have the constructors 
+	 * that we used here.
+	 */
 	public GuessingGame(String question, String noAnswer, String yesAnswer) {
 		// left node
 		DecisionTree<String> no = new DecisionTree<String>(noAnswer);
@@ -26,6 +35,14 @@ public class GuessingGame {
 		tree = new DecisionTree<String>(question, no, yes);
 	}
 
+	/*
+	 * The public method play uses methods of DecisionTree to maintain the tree.
+	 * Since the game requires user interaction, we assume that the client of
+	 * GuessingGame provides methods that communicate with the user. In
+	 * particular, we assume that a class Client has a static method
+	 * isUserResponseYes that returns true if the user responds “yes” to a
+	 * question.
+	 */
 	public void play() {
 		System.out.println("inside play()");
 		tree.reset();
@@ -34,6 +51,7 @@ public class GuessingGame {
 			// ask current question
 			// test
 			//tree.setCurrentData("Is the car domestic?");
+			
 			System.out.println(tree.getCurrentData());
 			System.out.println("Inside while loop");
 			
