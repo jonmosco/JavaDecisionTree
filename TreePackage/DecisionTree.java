@@ -45,23 +45,25 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 		
 	}
 
-	// Sees whether the current node contains an answer
+    /** Sees whether the current node contains an answer.
+    @return true if the current node is a leaf, or
+    false if it is a nonleaf */
 	public boolean isAnswer() {
-		return false;
+		return true;
 	}
 
     /** Sets the current node to its left child.
     If the child does not exist, sets the current node to null.
     Precondition: The current node is not null. */
 	public void advanceToNo() {
-		
+		getInorderIterator();
 	}
 
     /** Sets the current node to its right child.
     If the child does not exist, sets the current node to null.
     Precondition: The current node is not null. */
 	public void advanceToYes() {
-		
+		setTree(root);
 	}
 	
 	/** Makes the root of the tree the current node.*/

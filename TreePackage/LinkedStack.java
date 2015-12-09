@@ -23,6 +23,10 @@ public class LinkedStack<T> implements StackInterface<T> {
 		public LinkedStack<T>.Node getNextNode() {
 			// TODO Auto-generated method stub
 			return null;
+		}
+
+		public void setData(T data) {
+			this.data = data;
 		} 
 	} // end Node
 
@@ -31,7 +35,6 @@ public class LinkedStack<T> implements StackInterface<T> {
         topNode = newNode;	
 	}
 
-	@Override
 	public T pop() {
 		 T top = peek();
 		 if (topNode != null)

@@ -140,12 +140,16 @@ public class BinaryTree<T> implements BinaryTreeInterface<T> {
 			inorderTraverse(node.getRightChild());
 		}
 	}
+	public void InorderIterator() {
+		InorderIterator();
+	}
 	
-	private class InorderIterator implements Iterator < T >
+	@SuppressWarnings("unused")
+	private class InorderIterator implements Iterator <T>
 	{
 	    private StackInterface < BinaryNodeInterface < T >> nodeStack;
 	    private BinaryNodeInterface < T > currentNode;
-	    public InorderIterator ()
+		public InorderIterator ()
 	    {
 	        nodeStack = new LinkedStack < BinaryNodeInterface < T >> ();
 	        currentNode = root;
@@ -186,5 +190,5 @@ public class BinaryTree<T> implements BinaryTreeInterface<T> {
 	        throw new UnsupportedOperationException ();
 	    } // end remove
 	    
-	} // end InorderIterator
+	}
 }
