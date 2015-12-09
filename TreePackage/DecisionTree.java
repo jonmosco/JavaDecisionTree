@@ -63,6 +63,7 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
     If the child does not exist, sets the current node to null.
     Precondition: The current node is not null. */
 	public void advanceToYes() {
+		//getInorderIterator();
 		setTree(root);
 	}
 	

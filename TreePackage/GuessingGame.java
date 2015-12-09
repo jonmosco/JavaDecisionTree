@@ -52,10 +52,16 @@ public class GuessingGame {
 			// test
 			//tree.setCurrentData("Is the car domestic?");
 			
-			System.out.println(tree.getCurrentData());
+			//System.out.println(tree.getCurrentData());
+			
+			tree.getCurrentData();
+			
 			if (tree.getCurrentData() == null) {
 				learn();
+			} else {
+				System.out.println(tree.getCurrentData());
 			}
+			
 			//System.out.println("Inside while loop");
 			
 			if (Client.isUserResponseYes())
