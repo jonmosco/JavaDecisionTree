@@ -24,7 +24,7 @@ public class Client {
 		System.out.println("Yes or No: ");
 		String answer = scanner.next();
 
-		if (answer == "yes") {
+		if (answer.equals("yes")) {
 			return true;
 		} else {
 			return false;

@@ -1,20 +1,24 @@
 package TreePackage;
 
 import java.util.Iterator;
+import java.util.NoSuchElementException;
 
 public class BinaryTree<T> implements BinaryTreeInterface<T> {
 
 	private BinaryNode<T> root;
 
 	// default constructor
+	// create an empty tree
 	public BinaryTree() {
 		root = null;
 	}
 
+	// create a tree of a single node
 	public BinaryTree(T rootData) {
 		root = new BinaryNode<T>(rootData);
 	} // end constructor
 
+	// set data in the root node, and in the left and right subtrees
 	public BinaryTree(T rootData, BinaryTree<T> leftTree, BinaryTree<T> rightTree) {
 		privateSetTree(rootData, leftTree, rightTree);
 	} // end constructor
@@ -47,18 +51,18 @@ public class BinaryTree<T> implements BinaryTreeInterface<T> {
 	} // end privateSetTree
 
 	public T getRootData() {
-		//T rootData = null;
-		//if (root != null)
-		//	rootData = root.getData();
-		//return rootData;
-		
+		// T rootData = null;
+		// if (root != null)
+		// rootData = root.getData();
+		// return rootData;
+
 		if (isEmpty()) {
 			return null;
-			//throw new EmptyTreeException();
+			// throw new EmptyTreeException();
 		} else {
 			return root.getData();
 		}
-		
+
 	} // end getRootData
 
 	public boolean isEmpty() {
@@ -114,5 +118,73 @@ public class BinaryTree<T> implements BinaryTreeInterface<T> {
 	}
 
 	public void LevelOrderTraversal() {
+		LevelOrderTraversal(root);
 	}
+	
+	private void LevelOrderTraversal(BinaryNodeInterface<T> node) {
+		if (node != null) {
+			System.out.println(node.getData());
+			inorderTraverse(node.getLeftChild());
+			inorderTraverse(node.getRightChild());
+		} 
+	}
+
+	public void inorderTraverse() {
+		inorderTraverse(root);
+	} // end inorderTraverse
+
+	private void inorderTraverse(BinaryNodeInterface<T> node) {
+		if (node != null) {
+			inorderTraverse(node.getLeftChild());
+			System.out.println(node.getData());
+			inorderTraverse(node.getRightChild());
+		}
+	}
+	
+	private class InorderIterator implements Iterator < T >
+	{
+	    private StackInterface < BinaryNodeInterface < T >> nodeStack;
+	    private BinaryNodeInterface < T > currentNode;
+	    public InorderIterator ()
+	    {
+	        nodeStack = new LinkedStack < BinaryNodeInterface < T >> ();
+	        currentNode = root;
+	    } // end default constructor
+
+
+	    public boolean hasNext ()
+	    {
+	        return !nodeStack.isEmpty () || (currentNode != null);
+	    } // end hasNext
+
+
+	    public T next ()
+	    {
+	        BinaryNodeInterface < T > nextNode = null;
+	        // find leftmost node with no left child
+	        while (currentNode != null)
+	        {
+	            nodeStack.push (currentNode);
+	            currentNode = currentNode.getLeftChild ();
+	        } // end while
+	        // get leftmost node, then move to its right subtree
+	        if (!nodeStack.isEmpty ())
+	        {
+	            nextNode = nodeStack.pop ();
+	            assert nextNode != null; // since nodeStack was not empty
+	            // before the pop
+	            currentNode = nextNode.getRightChild ();
+	        }
+	        else
+	            throw new NoSuchElementException ();
+	        return nextNode.getData ();
+	    } // end next
+
+
+	    public void remove ()
+	    {
+	        throw new UnsupportedOperationException ();
+	    } // end remove
+	    
+	} // end InorderIterator
 }

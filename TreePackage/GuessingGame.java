@@ -44,7 +44,7 @@ public class GuessingGame {
 	 * question.
 	 */
 	public void play() {
-		System.out.println("inside play()");
+		//System.out.println("inside play()");
 		tree.reset();
 		
 		while (!tree.isAnswer()) {
@@ -53,7 +53,10 @@ public class GuessingGame {
 			//tree.setCurrentData("Is the car domestic?");
 			
 			System.out.println(tree.getCurrentData());
-			System.out.println("Inside while loop");
+			if (tree.getCurrentData() == null) {
+				learn();
+			}
+			//System.out.println("Inside while loop");
 			
 			if (Client.isUserResponseYes())
 				tree.advanceToYes();

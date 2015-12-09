@@ -66,7 +66,7 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 	
 	/** Makes the root of the tree the current node.*/
 	public void reset() {
-		System.out.println("inside reset()");
+		//System.out.println("inside reset()");
 		//getRootData();
 		setTree(data);
 		//root = data;
@@ -88,13 +88,11 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 
 	@Override
 	public int getNumberOfNodes() {
-		// TODO Auto-generated method stub
 		return 0;
 	}
 
 	@Override
 	public boolean isEmpty() {
-		// TODO Auto-generated method stub
 		return false;
 	}
 
