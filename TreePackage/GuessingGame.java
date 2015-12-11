@@ -45,30 +45,26 @@ public class GuessingGame {
 	 */
 	public void play() {
 		//System.out.println("inside play()");
+		learn();
 		tree.reset();
 		
 		while (!tree.isAnswer()) {
+			
 			// ask current question
-			// test
-			//tree.setCurrentData("Is the car domestic?");
-			
-			//System.out.println(tree.getCurrentData());
-			
-			tree.getCurrentData();
+			//tree.getCurrentData();
 			
 			if (tree.getCurrentData() == null) {
 				learn();
 			} else {
+				tree.getCurrentData();
 				System.out.println(tree.getCurrentData());
 			}
-			
-			//System.out.println("Inside while loop");
 			
 			if (Client.isUserResponseYes())
 				tree.advanceToYes();
 			else
 				tree.advanceToNo();
-		} // end while
+		}
 		
 		// Assertion: leaf is reached
 		assert tree.isAnswer();
@@ -93,14 +89,19 @@ public class GuessingGame {
 			while (scanner.hasNext()){
 				System.out.println(scanner.nextLine());
 				tree.setCurrentData(scanner.nextLine());
-				System.out.println("My guess is " + tree.getCurrentData() + ". Am I right?");
+				//System.out.println("My guess is " + tree.getCurrentData() + ". Am I right?");
 				
 				// get our response
 				@SuppressWarnings("resource")
 				Scanner input = new Scanner(System.in); 
 				System.out.println("Yes or No: ");
+				
 				@SuppressWarnings("unused")
 				String answer = input.next();
+				System.out.println("My guess is " + tree.getCurrentData() + ". Am I right?");
+				
+				
+				
 			}
 		} catch (IOException e) {
 			e.printStackTrace();

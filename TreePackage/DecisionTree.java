@@ -72,7 +72,6 @@ public class DecisionTree<T> implements DecisionTreeInterface<T> {
 		//System.out.println("inside reset()");
 		//getRootData();
 		setTree(data);
-		//root = data;
 	}
 
 	@Override

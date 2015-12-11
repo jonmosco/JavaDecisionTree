@@ -1,9 +1,9 @@
-Is the car foreign?
+Is the car a car?      
 Is the car domestic?
-Is the car a sedan?
-Is the car a coupe?
-Is the car a chevy?
-Is the car a ford?
-Is the car a taurus?
-Is the car a fusion?
-Is the car a escape?
+Is the car foreign?   
+Is the car a coupe?    
+Is the car a chevy?  
+Is the car a ford?	  
+Is the car a taurus?   
+Is the car a fusion? 
+Is the car a escape?   
