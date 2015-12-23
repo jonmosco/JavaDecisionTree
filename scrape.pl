@@ -14,6 +14,7 @@ sub uniq {
 	my $last = "";
 	for (@_) {
 		push @out, $_ unless $_ eq $last;
+		$last = $_;
 	}
 	return @out;
 }
@@ -82,6 +83,14 @@ my $data = $res->content;
 # <li> <a role="link" href="/list/full-list-of-gmc-models/reference">Full List of GMC Models</a> </li>
 my %makes = $data =~ m[href="(/list/full-list-of-(?:.*?)-models/reference)">Full List of (.*?) Models]g;
 while (my ($models_url, $make_name) = each %makes) {
+	$make_name =~ s/ Motor Company$//;
+	$make_name =~ s/ Motor Corporation$//;
+	$make_name =~ s/ Motors$//;
+	$make_name =~ s/ Cars Group Ltd\.$//;
+	$make_name =~ s/ Cars$//;
+	$make_name =~ s/ Passenger Cars$//;
+	$make_name =~ s/ S\.p\.A\.$//;
+
 	my $i = 1;
 	my @models;
 	my $referer = $index_url;
@@ -101,16 +110,22 @@ while (my ($models_url, $make_name) = each %makes) {
 		foreach my $model (@models) {
 			my ($model_name) = $model =~ m[^(.*?)</span>]
 			    or die "unexpected format";
-			next if $model_name =~ /\bversion\b/;
+			next if $model_name =~ /\bversion\b/i;
+			next if $model_name =~ /\bgeneration\b/i;
 			$model =~ m[<li><strong>Class:</strong>\s*(.*?)\s*</li>]ms
 			    or next;
-
 			my $attrs = $1;
 			my @attrs = split /\s*,\s*/, $attrs;
 			my @r_attrs; # recognized attributes
 			foreach (@attrs) {
 				characterize_model(\@r_attrs, $_);
 			}
+
+			$model_name =~ s/:/,/;
+			$model_name =~ s/^\s+//;
+			$model_name =~ s/\s+$//;
+			$model_name =~ s/^$make_name //;
+
 			print join(':', $make_name, $model_name,
 			    uniq sort @r_attrs), "\n" if @r_attrs;
 		}
