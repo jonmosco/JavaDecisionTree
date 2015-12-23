@@ -1,0 +1,2010 @@
+Toyota:Prius:Compact:Electric
+Toyota:Tacoma:Truck
+Toyota:Corolla:Compact:Subcompact
+Toyota:Camry Hybrid:Electric:Mid-size:Sedan
+Toyota:FJ Cruiser:SUV
+Toyota:Camry:Compact
+Toyota:Scion xB:Compact:Subcompact
+Toyota:Sienna:Mini
+Toyota:MasterAce:Mini:Van
+Toyota:RAV4:Compact:SUV
+Toyota:Tundra:Truck
+Toyota:2000GT:Coupe:Sports
+Toyota:Highlander:Mid-size:SUV
+Toyota:Land Cruiser:Full-size:SUV
+Toyota:Venza:Mid-size:SUV:Station Wagon
+Toyota:Lexus LS:Full-size:Luxury:Sedan
+Toyota:Pontiac Vibe:Compact:Hatchback
+Toyota:4Runner:Mid-size:SUV
+Toyota:Matrix:Compact:Hatchback
+Toyota:Camry Solara:Coupe:Mid-size
+Toyota:MR2:Sports
+Toyota:Avalon:Full-size:Sedan
+Toyota:Yaris Verso:Mini
+Toyota:Corolla:Coupe:Hatchback:Sedan
+Toyota:Sequoia:SUV
+Toyota:Celica:Coupe:Sports
+Toyota:Auris:Compact
+Toyota:Scion xA:Subcompact
+Toyota:Supra:Coupe:Hatchback:Sports
+Toyota:Dyna:Truck
+Toyota:RAV4 EV:Electric:SUV
+Toyota:Aurion:Mid-size:Sedan
+Toyota:Comfort:Mid-size
+Toyota:Vitz:Mini:Sedan:Subcompact
+Toyota:Sera:Coupe
+Toyota:Corona:Compact:Family:Mid-size
+Toyota:bB:Mini:Subcompact
+Toyota:Cressida:Luxury:Mid-size
+Toyota:WISH:Compact:Mini
+Toyota:Lexus ES:Family:Luxury:Mid-size:Sedan
+Toyota:Previa:Mini
+Toyota:Lexus SC:Coupe:Luxury
+Toyota:Land Cruiser:SUV:Truck
+Toyota:Tercel:Subcompact
+Toyota:Platz:Coupe:Sedan:Subcompact
+Toyota:Daihatsu Applause:Compact:Hatchback
+Toyota:Belta:Sedan:Subcompact
+Toyota:Crown:Sedan:Station Wagon
+Toyota:Kijang:Truck
+Toyota:Starlet:Subcompact
+Toyota:Premio:Sedan
+Toyota:Fortuner:SUV
+Toyota:Publica:Compact:Coupe:Mini:Sedan:Station Wagon
+Toyota:Mark X:Full-size:Mid-size:Sedan
+Toyota:Allion:Sedan
+Toyota:Mega Cruiser:SUV
+Toyota:Century:Full-size:Luxury:Sedan
+Toyota:Revo:Mini
+Toyota:iQ:Hatchback:Micro
+Toyota:Land Cruiser:SUV:Truck
+Toyota:T100:Truck
+Toyota:Noah:Mini
+Toyota:Ipsum:Mini
+Toyota:Mark X ZiO:Compact:Full-size:SUV
+Toyota:Sienta:Mini
+Toyota:ist:Hatchback:Subcompact
+Toyota:Volkswagen Taro:Truck
+Toyota:Crown Comfort:Mid-size
+Toyota:Sports 800:Coupe:Roadster:Sports
+Toyota:Corolla:Coupe:Hatchback:Sedan:Station Wagon:Van
+Toyota:Granvia:Mini
+Toyota:Ractis:Subcompact
+Toyota:Sprinter:Compact
+Toyota:Raum:Hatchback:Mini
+Toyota:Grand Hiace:Mini
+Toyota:Vios:Sedan:Subcompact
+Toyota:Carina II:Family
+Toyota:Hybrid X:Sedan
+Toyota:Land Cruiser Prado:Mid-size:SUV
+Toyota:Vanguard:SUV
+Toyota:Avensis:Family:Sedan:Station Wagon
+Toyota:Innova:Mini
+Toyota:Verossa:Sedan
+Toyota:Trekker:Truck
+Toyota:Camry TS-01:Mid-size:Sedan
+Toyota:Sportivo Coupe:Coupe
+Toyota:Prius v:Compact:Station Wagon
+Toyota:Prius Plug-in Hybrid:Hatchback
+Infiniti:G20:Sedan
+Infiniti:G25:Sedan
+Infiniti:IPL Q50:Coupe
+Infiniti:M30:Coupe
+Infiniti:Q45:Sedan
+Infiniti:QX60:Mid-size:SUV
+Infiniti:Q70:Luxury:Mid-size:Sedan
+Infiniti:QX80:Full-size:SUV
+Austin:7:Micro
+Austin:A40 Devon:Mid-size:Sedan:Station Wagon:Truck:Van
+Austin:A40 Sports:Sports
+Austin:Cambridge:Sedan:Station Wagon:Truck:Van
+Austin:A30:Sedan:Station Wagon:Van
+Austin:A35:Compact
+Austin:A40 Somerset:Convertible:Mid-size:Sedan
+Austin:FX4:Sedan
+Austin:16:Sedan
+Austin:16 hp:Sedan:Station Wagon
+Austin:Mini Cooper S 1963:Sedan
+Austin:Atlantic:Sedan
+Austin:10:Truck
+Austin:Mini Saloon De Luxe:Sedan
+Austin:Mini Cooper 1961:Sedan
+Kia:Ford Aspire:Hatchback:Subcompact
+Kia:Ford Festiva:Hatchback:Subcompact
+Kia:Hyundai Entourage:Mini
+Kia:Avella:Hatchback:Sedan:Subcompact
+Kia:Carens:Compact:Station Wagon
+Kia:Carnival:Mini
+Kia:Cee'd:Compact:Hatchback:Station Wagon
+Kia:Credos:Compact:Mid-size:Sedan:Station Wagon
+Kia:Forte:Compact:Coupe:Hatchback:Sedan
+Kia:Forte Koup:Compact:Coupe
+Kia:Kue:Mid-size:SUV
+Kia:Mentor:Hatchback
+Kia:Mohave/Borrego:SUV
+Kia:Picanto:Hatchback
+Kia:Opirus:Full-size
+Kia:Optima:Mid-size:Sedan
+Kia:Potentia:Full-size:Luxury:Sedan
+Kia:Pride:Hatchback:Mini:Sedan:Station Wagon
+Kia:Pro cee'd:Compact
+Kia:Rio:Subcompact
+Kia:Sephia:Compact
+Kia:Sorento:Compact:Mid-size:SUV
+Kia:Soul:Compact:Hatchback
+Kia:Cerato:Compact:Sedan
+Kia:Sportage:SUV
+Kia:Lotus Elan:Coupe:Roadster
+Mitsubishi:Outlander:SUV
+Mitsubishi:Lancer Evolution:Sedan:Sports:Station Wagon
+Mitsubishi:Galant:Compact:Hatchback:Mid-size:Sedan:Station Wagon
+Mitsubishi:Lancer:Compact:Subcompact
+Mitsubishi:Carisma:Family:Hatchback:Sedan
+Mitsubishi:Pajero:Mid-size:SUV
+Mitsubishi:Eclipse:Compact:Mid-size
+Mitsubishi:Endeavor:Mid-size:SUV
+Mitsubishi:Eagle Summit:Subcompact
+Mitsubishi:Magna:Mid-size
+Mitsubishi:500:Compact:Sedan
+Mitsubishi:RVR:Mini:SUV
+Mitsubishi:Dion:Compact
+Mitsubishi:Eagle Talon:Sports
+Mitsubishi:Lancer 1600 GSR:Compact:Sedan
+Mitsubishi:eK:Hatchback
+Mitsubishi:380:Mid-size:Sedan
+Mitsubishi:Town Box:Hatchback:Mini
+Mitsubishi:Colt:Coupe:Hatchback:Mini:Sedan:Station Wagon
+Mitsubishi:Galant GTO:Coupe:Sports
+Mitsubishi:Grandis:Mini
+Mitsubishi:Colt 600:Sedan
+Mitsubishi:Diamante:Full-size
+Mitsubishi:GTO:Convertible:Coupe:Sports
+Mitsubishi:Maven:Mini
+Mitsubishi:Space Star:Mini
+Mitsubishi:Savrin:Mini
+Mitsubishi:Eagle Vista:Hatchback:Sedan:Station Wagon:Subcompact
+Mitsubishi:Starion:Coupe:Hatchback:Sports
+Mitsubishi:Freeca:Compact
+Mitsubishi:FTO:Coupe:Sports
+Mitsubishi:Tredia:Sedan:Subcompact
+Mitsubishi:Mirage:Subcompact
+Mitsubishi:Zinger:Hatchback:Mini
+Mitsubishi:Challenger:Mid-size:SUV
+Mitsubishi:Model A:Sedan
+Mitsubishi:Chariot:Mini
+Mitsubishi:Minicab:Truck
+Mitsubishi:Cordia:Compact:Coupe:Hatchback
+Mitsubishi:Galant Lambda:Coupe:Subcompact
+Mitsubishi:Debonair:Sedan
+Mitsubishi:Colt 1500:Sedan
+Mitsubishi:Delica:Mini:SUV
+Mitsubishi:Pistachio:Hatchback
+Mitsubishi:Dignity:Luxury:Sedan
+Mitsubishi:i:Hatchback
+Mitsubishi:Proudia:Luxury:Sedan
+Mitsubishi:PX33:Convertible
+Mitsubishi:Galant FTO:Coupe:Sports
+Mitsubishi:Colt 1000:Sedan:Station Wagon
+Mitsubishi:Colt 800:Hatchback:Station Wagon
+SsangYong:Actyon:Hatchback:SUV:Station Wagon:Truck
+SsangYong:Chairman:Full-size:Luxury:Sedan
+SsangYong:Istana:Van
+SsangYong:Korando:Mid-size:SUV
+SsangYong:Kyron:SUV:Station Wagon
+SsangYong:Musso:SUV:Truck
+SsangYong:Musso Sports:Truck
+SsangYong:Rexton:Mid-size:SUV
+SsangYong:Rodius:Mini:Station Wagon
+AC:2-Litre:Sedan
+AC:Ace:Roadster
+AC:Cobra:Roadster:Sports
+AC:Frua:Coupe
+AC:Greyhound:Coupe
+Buick:LaCrosse:Mid-size:Sedan
+Buick:Wildcat:Full-size:Sedan
+Buick:LeSabre:Full-size
+Buick:Enclave:Full-size:SUV
+Buick:Lucerne:Full-size:Sedan
+Buick:Regal:Luxury:Mid-size
+Buick:Rendezvous:Mid-size:SUV
+Buick:Skyhawk:Compact:Subcompact
+Buick:Somerset:Compact:Coupe:Sedan
+Buick:Terraza:Mini:Van
+Buick:Electra:Full-size
+Buick:Riviera:Luxury
+Buick:Reatta:Convertible:Coupe:Sports
+Buick:Invicta:Convertible:Full-size:Station Wagon
+Buick:Special:Full-size:Mid-size
+Buick:Sport Wagon:Mid-size:Station Wagon
+Buick:Super:Full-size:Sedan
+Buick:Velite:Convertible:Coupe:Sports
+Buick:Roadmaster:Full-size
+Buick:Apollo:Compact:Coupe:Hatchback:Sedan
+Buick:Century:Coupe:Full-size:Mid-size:Sedan:Station Wagon
+Buick:Park Avenue:Full-size:Luxury:Sedan
+Buick:Rainier:Mini:SUV
+Buick:Holden Caprice:Full-size:Sedan
+Buick:Estate:Full-size:Station Wagon
+Buick:GL8:Mini:Van
+Buick:Verano:Compact
+Daimler:250:Luxury:Sedan
+Daimler:DR450:Full-size:Luxury
+Daimler:Majestic Major:Luxury:Sedan
+Daimler:SP250:Sports
+Nissan:GT-R:Coupe:Sports
+Nissan:Altima:Compact:Mid-size
+Nissan:370Z:Coupe:Roadster:Sports
+Nissan:Cube:Hatchback:Subcompact
+Nissan:Rogue:Hatchback:SUV
+Nissan:Sentra:Compact:Subcompact
+Nissan:Quest:Mini
+Nissan:350Z:Coupe:Roadster:Sports
+Nissan:Maxima:Compact:Full-size:Mid-size
+Nissan:Leaf:Electric
+Nissan:Murano:Mid-size:SUV
+Nissan:Datsun/Nissan Z-car:Sports
+Nissan:Primera:Family:Hatchback:Sedan:Station Wagon
+Nissan:S-Cargo:Van
+Nissan:Almera:Compact
+Nissan:Titan:Full-size:Truck
+Nissan:Pathfinder:Mid-size:SUV
+Nissan:Xterra:SUV
+Nissan:Skyline:Compact:Coupe:Mid-size:Sports
+Nissan:Pulsar:Coupe:Hatchback:Sedan
+Nissan:S30:Hatchback:Sports
+Nissan:Sunny:Coupe:Sedan:Station Wagon:Subcompact:Van
+Nissan:Patrol:SUV
+Nissan:Skyline GT-R:Coupe:Sedan
+Nissan:Stanza:Compact
+Nissan:Fuga:Sedan
+Nissan:X-Trail:Off-road:SUV
+Nissan:Presage:Mini
+Nissan:Presea:Compact
+Nissan:Silvia:Coupe:Hatchback:Sports
+Nissan:Note:Hatchback
+Nissan:Bluebird Sylphy:Compact:Mid-size
+Nissan:Cedric:Sedan
+Nissan:Hardbody Truck:Truck
+Nissan:Prairie:Compact:Mini
+Nissan:Cefiro:Mid-size:Sedan:Station Wagon
+Nissan:180SX:Coupe
+Nissan:Cima:Full-size:Luxury:Sedan
+Nissan:Leopard:Sedan
+Nissan:Armada:SUV
+Nissan:Teana:Full-size:Mid-size:Sedan
+Nissan:Terrano II:SUV
+Nissan:Figaro:Convertible
+Nissan:Avenir:Station Wagon
+Nissan:NX:Coupe:Hatchback
+Nissan:Wingroad:Compact:Station Wagon
+Nissan:Cherry:Compact
+Nissan:Serena:Van
+Nissan:Sileighty:Coupe
+Nissan:Diesel Big Thumb:Truck
+Nissan:Diesel Condor:Truck
+Nissan:Qashqai:SUV
+Nissan:Navara:Compact:Truck
+Nissan:Tiida:Compact:Sedan:Subcompact
+Nissan:Almera Tino:Compact:Mini
+Nissan:Pulsar GTI-R:Hatchback
+Nissan:Crew:Mid-size
+Nissan:Lafesta:Compact:Mini
+Nissan:Micra:Mini
+Nissan:Diesel Quon:Truck
+Nissan:JUKE:SUV
+Nissan:Atlas:Truck
+Nissan:Bevel:Full-size:SUV
+Nissan:300C:Luxury
+Nissan:Saurus:Roadster
+Nissan:Livina Geniss:Mini
+Subaru:Forester:SUV:Station Wagon
+Subaru:Outback:Mid-size:SUV:Station Wagon
+Subaru:Impreza WRX STI:Sports
+Subaru:Impreza:Compact
+Subaru:Legacy:Sedan
+Subaru:Baja:Mid-size:Truck
+Subaru:Tribeca:Mid-size:SUV
+Subaru:Leone:Compact:Subcompact
+Subaru:Alcyone SVX:Coupe
+Subaru:R-2:Micro
+Subaru:Legacy:Mid-size
+Subaru:FF-1 Star:Sedan:Subcompact
+Subaru:G:Coupe:Sedan:Subcompact
+Subaru:Vivio:Hatchback
+Subaru:Legacy:Sedan:Station Wagon
+Subaru:Justy:Hatchback:Subcompact
+Subaru:1000:Sedan:Station Wagon:Subcompact
+Subaru:360:Micro
+Subaru:Pleo:Hatchback:Station Wagon
+Subaru:Rex:Hatchback:Micro
+Subaru:XT:Coupe
+Subaru:R1e:Electric
+Subaru:Exiga:Compact:Mini:Station Wagon
+Chevrolet:Volt:Compact:Hybrid
+Chevrolet:Corvette Stingray:Convertible:Sports
+Chevrolet:Camaro:Coupe:Sports
+Chevrolet:Tahoe:SUV
+Chevrolet:Chevette:Hatchback:Subcompact:Truck
+Chevrolet:Corvette:Coupe:Sports
+Chevrolet:Corvair:Compact:Coupe:Sedan:Station Wagon:Van
+Chevrolet:Malibu:Mid-size
+Chevrolet:SSR:Convertible:Sports:Truck
+Chevrolet:Vega:Coupe:Sedan:Subcompact
+Chevrolet:Impala:Full-size
+Chevrolet:Chevelle:Mid-size
+Chevrolet:Suburban:SUV:Station Wagon
+Chevrolet:Colorado:Truck
+Chevrolet:Corvette C6 ZR1:Sports
+Chevrolet:Equinox:SUV
+Chevrolet:Geo Metro:Subcompact
+Chevrolet:Cruze:Compact:Hatchback:SUV:Sedan
+Chevrolet:Citation:Compact:Hatchback
+Chevrolet:Chevy II / Nova:Compact:Subcompact
+Chevrolet:Corvette C6:Coupe:Sports
+Chevrolet:Traverse:Mini:SUV
+Chevrolet:Corvette Mako Shark:Convertible:Sports
+Chevrolet:Cobalt:Compact:Coupe:Sedan
+Chevrolet:Bel Air:Full-size
+Chevrolet:C/K:Full-size:Truck
+Chevrolet:Cavalier:Compact:Subcompact
+Chevrolet:HHR:Compact:SUV:Station Wagon
+Chevrolet:Cobalt SS:Coupe:Sedan
+Chevrolet:Corvette C4:Coupe:Sports
+Chevrolet:Monza:Coupe:Hatchback:Station Wagon:Subcompact
+Chevrolet:Corvair Monza GT:Coupe:Sports
+Chevrolet:Monte Carlo:Luxury
+Chevrolet:LUV:Truck
+Chevrolet:S-10:Truck
+Chevrolet:Celebrity:Coupe:Mid-size:Sedan:Station Wagon
+Chevrolet:Uplander:Mini
+Chevrolet:S-10 Blazer:Mid-size:SUV
+Chevrolet:Avalanche:Full-size:Truck
+Chevrolet:Tracker:Compact:Economy:SUV
+Chevrolet:Corvette C1:Sports
+Chevrolet:Trailblazer:SUV
+Chevrolet:K5 Blazer:SUV
+Chevrolet:Express:Full-size:Van
+Chevrolet:Yenko Camaro:Coupe:Sports
+Chevrolet:Kodiak:Truck
+Chevrolet:Corsica:Compact:Hatchback:Mid-size:Sedan
+Chevrolet:Lumina APV:Mini:Van
+Chevrolet:Montana:Truck
+Chevrolet:Biscayne:Full-size
+Chevrolet:Venture:Mini
+Chevrolet:Holden Caprice:Full-size:Sedan
+Chevrolet:Aerovette:Coupe:Sports
+Chevrolet:Advance Design:Truck
+Chevrolet:Beretta:Compact:Coupe:Mid-size
+Chevrolet:Captiva:Compact:Mid-size:SUV:Station Wagon
+Chevrolet:Task Force:Truck
+Chevrolet:Celta:Hatchback:Sedan:Station Wagon
+Chevrolet:1957 Chevrolet:Sedan:Station Wagon
+Chevrolet:Beauville:Van
+Chevrolet:Spark:Hatchback
+Chevrolet:Astro:Mini:Van
+Chevrolet:Kadett:Compact
+Chevrolet:Nomad:Station Wagon
+Chevrolet:Geo Prizm:Compact:Subcompact
+Chevrolet:SS:Sedan
+Chevrolet:Delray:Coupe:Full-size:Sedan
+Chevrolet:Sequel:Electric:Full-size:Hybrid:SUV
+Chevrolet:400:Sedan
+Chevrolet:Lumina:Full-size:Mid-size
+Chevrolet:Caprice:Full-size
+Isuzu:Honda Passport:SUV:Station Wagon
+Isuzu:Geo Storm:Coupe:Hatchback:Station Wagon
+Isuzu:Giga:Truck
+Isuzu:Trooper:Mid-size:SUV
+Isuzu:D-Max:Mid-size:Truck
+Isuzu:i-Series:Mid-size:Truck
+Isuzu:Wizard:SUV:Station Wagon
+Isuzu:117 Coupé:Compact:Coupe:Mid-size:Sports
+Isuzu:Ascender:Full-size:Mid-size:SUV
+Isuzu:Aska:Mid-size:Sedan
+Isuzu:VehiCROSS:SUV
+Isuzu:Amigo:SUV
+Isuzu:Bellett:Compact:Coupe:Sedan:Station Wagon:Subcompact
+Isuzu:TF:Truck
+Isuzu:Florian:Mid-size:Sedan:Station Wagon
+Isuzu:Chevrolet Tavera:Compact
+Isuzu:Hombre:Compact:Truck
+Isuzu:Acura SLX:Mid-size:SUV
+Isuzu:Piazza:Hatchback:Station Wagon
+Isuzu:Panther:Mini:Truck
+Isuzu:Bellel:Compact:Mid-size:Sedan:Station Wagon
+Isuzu:Elf:Truck
+Isuzu:Faster:Truck
+Isuzu:Forward:Truck
+Isuzu:Oasis:Mini
+Isuzu:Axiom:Mid-size:SUV
+Isuzu:Rodeo:Truck
+Saab:9-5:Sedan
+Saab:9-7X:Mid-size:SUV
+Saab:95:Compact:Station Wagon:Truck:Van
+Saab:93:Compact:Coupe
+Saab:96:Compact:Coupe
+Saab:99:Compact:Coupe:Sedan
+Saab:9-4X:Luxury:Mid-size:SUV
+Saab:90:Compact:Coupe
+Saab:9000:Hatchback:Sedan
+Saab:92:Compact:Coupe
+Saab:9-2X:Compact:Hatchback:Luxury:Station Wagon
+Renault:Clio:Mini
+Renault:5:Mini
+Renault:Twingo:Hatchback
+Renault:Dauphine:Compact:Sedan
+Renault:Modus:Mini
+Renault:Avantime:Coupe:Mini
+Renault:Vel Satis:Hatchback
+Renault:Alliance:Hatchback:Sedan:Subcompact
+Renault:6:Compact:Hatchback:Subcompact
+Renault:4CV:Compact:Sedan
+Renault:4:Economy:Hatchback:Mini:Subcompact:Van
+Renault:Fluence:Compact:Coupe:Luxury:Sedan
+Renault:7:Mini:Sedan
+Renault:Trafic:Van
+Renault:Eagle Premier:Full-size:Sedan
+Renault:Celtaquatre:Compact:Convertible:Sedan
+Renault:NN:Compact:Coupe:Sedan
+Renault:12:Family:Sedan:Station Wagon
+Renault:Wind:Roadster
+Renault:14:Compact:Hatchback
+Renault:16:Family:Hatchback
+Renault:Fuego:Hatchback:Sports
+Renault:19:Compact:Convertible:Hatchback:Sedan
+Renault:9 & 11:Compact:Convertible:Hatchback:Sedan
+Renault:Scénic:Compact:Mini
+Renault:21:Family:Hatchback:Sedan:Station Wagon
+Renault:Monaquatre:Compact:Coupe:Sedan
+Renault:Caravelle:Convertible:Coupe:Roadster
+Renault:Monasix:Compact:Convertible:Coupe:Sedan:Truck
+Renault:Primastella:Convertible:Family:Mid-size:Sedan
+Renault:Espace:Mini
+Renault:Eagle Medallion:Compact:Sedan:Station Wagon
+Renault:Primaquatre:Convertible:Family:Mid-size:Sedan
+Renault:Vivastella:Full-size:Sedan
+Renault:Koleos:Compact:SUV
+Renault:Voiturette:Compact:Mini:Sedan
+Renault:5 Turbo:Hatchback
+Renault:Reinastella:Full-size:Luxury
+Renault:Frégate:Full-size:Sedan:Station Wagon
+Renault:Safrane:Hatchback
+Renault:18:Family:Mid-size:Sedan:Station Wagon
+Renault:8:Compact:Sedan:Subcompact
+Renault:Juvaquatre:Compact:Coupe:Sedan:Station Wagon:Van
+Renault:20/30:Hatchback
+Renault:Viva Grand Sport:Sedan
+Renault:Laguna:Family
+Renault:Monastella:Compact:Convertible:Coupe:Luxury:Sedan
+Renault:KZ:Family:Mid-size:Sedan:Truck
+Renault:GTA:Convertible:Sedan:Subcompact
+Renault:Mégane:Compact:Coupe:Hatchback:SUV:Sedan
+Renault:KJ:Compact
+Renault:Vivasix:Coupe:Full-size:Sedan
+Renault:Altica:Coupe:Station Wagon
+Renault:Clio Renault Sport:Hatchback
+Renault:Taxi de la Marne:Sedan
+Renault:Argos:Coupe
+Renault:Alpine GTA/A610:Coupe:Sports
+Renault:Colorale:Family:Mid-size:Station Wagon:Truck
+Renault:5 GT Turbo:Hatchback
+Renault:Type MT:Compact:Sports
+Renault:Mégane Renault Sport:Hatchback
+Renault:Sport Spider:Roadster
+Renault:Talisman:Coupe:Luxury
+Renault:Towncar:Sedan
+Renault:GS:Mid-size:Sedan:Truck
+Renault:3:Economy:Hatchback:Subcompact
+Ford:Fiesta:Mini
+Ford:Pinto:Compact:Coupe:Hatchback:Station Wagon:Subcompact
+Ford:Focus:Compact:Hatchback:Sedan:Station Wagon
+Ford:Explorer:SUV
+Ford:GT40:Coupe:Roadster:Sports
+Ford:Taurus:Full-size
+Ford:Ranger:Truck
+Ford:Torino:Coupe:Mid-size:Sedan
+Ford:Escape:Compact:SUV
+Ford:Fusion:Mid-size:Sedan
+Ford:Aerostar:Mini
+Ford:Escape Hybrid:Electric
+Ford:Model T:Coupe:Roadster:SUV:Sedan:Truck
+Ford:Edge:Mid-size:SUV
+Ford:Flex:SUV:Station Wagon
+Ford:F-Series:Truck
+Ford:Windstar:Mini
+Ford:Lightning:SUV:Truck
+Ford:Focus RS:Hatchback
+Ford:Transit:Truck:Van
+Ford:Falcon:Full-size:Sedan:Station Wagon:Truck
+Ford:Expedition:Full-size:SUV
+Ford:Excursion:Full-size:SUV
+Ford:Fairlane:Convertible:Full-size:Mid-size:Station Wagon
+Ford:Thunderbird:Luxury
+Ford:Ka:Hatchback
+Ford:Mondeo:Family:Full-size
+Ford:Bronco:SUV
+Ford:Ranchero:Compact:Mid-size:Truck
+Ford:Mustang:Coupe:Hatchback
+Ford:Edsel Ranger:Convertible:Coupe:Full-size:Sedan
+Ford:Crown Victoria:Full-size:Sedan
+Ford:E-Series:Full-size:Van
+Ford:Bronco II:SUV
+Ford:Edsel Villager:Full-size:Station Wagon
+Ford:Country Squire:Full-size:Station Wagon
+Ford:LTD:Full-size:Mid-size
+Ford:Model A:Coupe:Roadster:Sedan:Station Wagon:Truck
+Ford:Taurus X:SUV
+Ford:Scorpio:Hatchback:Sedan:Station Wagon
+Ford:Tempo:Compact
+Ford:LTD Crown Victoria:Coupe:Full-size:Sedan:Station Wagon
+Ford:Freestar:Mini
+Ford:EXP:Hatchback
+Ford:Shelby Cobra Concept:Roadster
+Ford:Model B:Convertible:Coupe:Roadster:Sedan
+Ford:Escort RS Cosworth:Hatchback
+Ford:S-Max:Mini:Sedan
+Ford:Mazda B-Series:Truck
+Ford:Shelby Mustang:Coupe:Sports
+Ford:Fairlane (Australia):Full-size:Sedan
+Ford:Mercury Monterey:Coupe:Full-size:Sedan
+Ford:BA Falcon:Full-size:Sedan:Station Wagon
+Ford:XF Falcon:Full-size:Sedan:Station Wagon:Van
+Ford:Puma:Coupe:Hatchback
+Ford:Five Hundred:Full-size:Sedan
+Ford:Explorer Sport Trac:Mid-size:SUV:Truck
+Ford:LTD II:Coupe:Mid-size:Sedan
+Ford:Maverick:Compact:Coupe:Mid-size:Sedan:Station Wagon
+Ford:Freestyle:Full-size:SUV
+Ford:Contour:Compact:Sedan
+Ford:Sierra:Family:Hatchback:Mid-size:Sedan:Station Wagon
+Ford:Falcon (North America):Compact:Sedan
+Ford:AU Falcon:Full-size:Sedan:Station Wagon
+Ford:Everest:SUV
+Ford:Zephyr:Full-size
+Ford:Taurus SHO:Full-size:Mid-size
+Ford:Telstar:Hatchback:Mid-size:Sedan:Station Wagon
+Ford:XY Falcon:Sedan:Station Wagon:Van
+Ford:1957 Ford:Convertible:Coupe:Sedan:Station Wagon:Truck
+Ford:Lotus Cortina:Sedan:Sports
+Ford:FG Falcon:Full-size:Sedan
+Ford:Classic:Sedan
+Ford:Orion:Compact:Sedan
+Ford:Fairmont:Full-size:Sedan:Station Wagon
+Ford:Vedette:Coupe:Hatchback:Sedan:Station Wagon
+Ford:Thunderbird:Coupe
+Ford:Model 91:Sedan
+Ford:Escort:Compact:Hatchback:Sedan:Station Wagon
+Ford:Ikon:Sedan:Subcompact
+Ford:EA Falcon:Sedan:Station Wagon
+Ford:XP Falcon:Sedan:Station Wagon:Van
+Ford:Granada:Coupe:Sedan:Station Wagon
+Ford:1941 Ford:Coupe:Sedan:Station Wagon:Truck
+Ford:EB Falcon:Sedan:Station Wagon
+Ford:EL Falcon:Full-size:Sedan:Station Wagon
+Ford:XT Falcon:Sedan:Station Wagon:Van
+Ford:1952 Ford:Coupe:Sedan:Station Wagon
+Ford:Thunderbird:Convertible:Coupe
+Ford:XW Falcon:Sedan:Station Wagon:Van
+Ford:Landau:Coupe:Full-size
+Ford:Ranger EV:Compact:Truck
+Ford:Thunderbird:Coupe
+Ford:Model Y:Sedan
+Ford:Thunderbird:Coupe
+Ford:Thunderbird:Convertible:Coupe
+Ford:Capri:Coupe:Roadster:Sports
+Ford:RS200:Coupe:Sports
+Ford:Fiesta RS Turbo:Hatchback:Mini
+Ford:Meteor Rideau:Coupe:Full-size:Sedan
+Ford:XA Falcon:Sedan:Station Wagon:Van
+Ford:EcoSport:SUV
+Ford:Model 48:Convertible:Coupe:Roadster:Sedan:Station Wagon
+Ford:Thames Trader:Truck:Van
+Ford:XB Falcon:Sedan:Station Wagon:Van
+Ford:XC Falcon:Sedan:Station Wagon
+Ford:Airstream:SUV
+Ford:XE Falcon:Sedan:Station Wagon:Van
+Ford:Corsair:Convertible:Hatchback:Sedan:Station Wagon
+Ford:Elite:Coupe:Luxury
+Ford:Galaxie:Full-size:Sedan:Station Wagon
+Ford:Pilot:Sedan
+Ford:Fairlane 500 Skyliner:Full-size
+Ford:7W:Sedan
+Ford:Fairmont:Compact:Coupe:Sedan:Station Wagon
+Ford:Galaxy:Mini
+Ford:BF Falcon:Full-size
+Ford:Kuga:SUV
+Ford:XK Falcon:Sedan:Station Wagon:Van
+Ford:Starliner:Coupe:Full-size
+Ford:Cougar:Coupe:Hatchback
+Ford:Durango:Compact:Truck
+Ford:Landau:Full-size:Sedan
+Ford:XL Falcon:Mid-size:Sedan:Station Wagon:Van
+Ford:LTD:Full-size:Sedan
+Ford:Model C Ten:Sedan
+Ford:XM Falcon:Sedan:Station Wagon:Van
+Ford:Granada:Coupe:Sedan:Station Wagon
+Ford:1949 Ford:Convertible:Coupe:Sedan:Station Wagon
+Ford:1955 Ford:Coupe:Sedan
+Ford:XR Falcon:Sedan:Station Wagon:Van
+Ford:GTHO Phase III:Sedan
+Ford:XY Falcon GT:Sedan
+Ford:C1 platform:Compact
+Ford:7Y:Sedan
+Ford:F-350:Truck
+Austin:Allegro:Compact:Sedan:Station Wagon
+Austin:Montego:Mid-size:Sedan:Station Wagon
+Austin:7:Micro
+Austin:Maestro:Compact:Hatchback:Van
+Austin:Nash Metropolitan:Economy:Subcompact
+Austin:Cambridge:Sedan:Station Wagon:Truck:Van
+Austin:A40 Devon:Mid-size:Sedan:Station Wagon:Truck:Van
+Austin:A40 Sports:Sports
+Austin:Apache:Compact:Mid-size:Sedan
+Austin:1800:Family:Sedan:Truck
+Austin:A30:Sedan:Station Wagon:Van
+Austin:Kimberley:Mid-size:Sedan
+Austin:A35:Compact
+Austin:A40 Somerset:Convertible:Mid-size:Sedan
+Austin:Ambassador:Full-size:Hatchback
+Austin:Morris Commercial J4:Van
+Austin:Atlantic:Sedan
+Austin:16:Sedan
+Austin:Morris Marina:Coupe:Mid-size:Sedan:Station Wagon:Truck
+Austin:16 hp:Sedan:Station Wagon
+Austin:Morris Minor:Compact
+Austin:3-Litre:Full-size:Sedan:Station Wagon
+Austin:FX4:Sedan
+Austin:A40 Farina:Hatchback:Sedan
+Austin:Morris Commercial J2:Van
+Austin:10:Truck
+Austin:de Luxe:Mid-size:Sedan
+Austin:Mini Saloon De Luxe:Sedan
+Austin:Morris 250 JU:Van
+Austin:MINI Cooper:Mini:Sedan:Truck:Van
+Holden:Pontiac G8:Coupe:Full-size:Sedan:Truck
+Holden:Monaro:Coupe:Sedan
+Holden:Commodore:Coupe:Full-size:Mid-size:Sedan:Truck
+Holden:Brougham:Full-size:Sedan
+Holden:FJ:Mid-size:Sedan:Station Wagon:Truck
+Holden:Gemini:Compact
+Holden:Torana:Compact:Mid-size
+Holden:Special:Mid-size:Sedan:Station Wagon
+Holden:VP Commodore:Full-size:Sedan:Station Wagon
+Holden:VQ Caprice:Full-size:Sedan
+Holden:VE Commodore:Full-size:Sedan:Station Wagon
+Holden:VZ Commodore:Full-size:Sedan:Station Wagon
+Holden:Caprice:Full-size:Sedan
+Holden:VR Commodore:Full-size:Sedan:Station Wagon
+Holden:Frontera:SUV
+Holden:VT Commodore:Full-size:Sedan:Station Wagon
+Holden:Adventra:SUV:Station Wagon
+Holden:VX Commodore:Full-size:Sedan:Station Wagon
+Holden:Camira:Mid-size:Sedan:Station Wagon
+Holden:Kingswood:Full-size:Sedan:Station Wagon:Truck
+Holden:VB Commodore:Mid-size:Sedan:Station Wagon
+Holden:Suburban:Full-size:SUV
+Holden:VC Commodore:Mid-size:Sedan:Station Wagon
+Holden:VY Commodore:Sedan:Station Wagon
+Holden:VH Commodore:Mid-size:Sedan:Station Wagon
+Holden:VL Commodore:Mid-size:Sedan:Station Wagon
+Holden:VN Commodore:Full-size:Sedan:Station Wagon
+Holden:VS Commodore:Full-size
+Holden:Coupe 60:Coupe
+Holden:Nova:Compact:Hatchback:Sedan
+Holden:Chevrolet Lumina:Full-size:Mid-size
+Toyota:Daihatsu Applause:Compact:Hatchback
+Toyota:Lexus ES:Family:Luxury:Mid-size:Sedan
+Toyota:Lexus LS:Full-size:Luxury:Sedan
+Toyota:Lexus SC:Coupe:Luxury
+Toyota:Pontiac Vibe:Compact:Hatchback
+Toyota:Scion xB:Compact:Subcompact
+Toyota:2000GT:Coupe:Sports
+Toyota:4Runner:Mid-size:SUV
+Toyota:Allion:Sedan
+Toyota:Aurion:Mid-size:Sedan
+Toyota:Auris:Compact
+Toyota:Avalon:Full-size:Sedan
+Toyota:Avensis:Family:Sedan:Station Wagon
+Toyota:bB:Mini:Subcompact
+Toyota:Belta:Sedan:Subcompact
+Toyota:Camry:Compact
+Toyota:Camry Hybrid:Electric:Mid-size:Sedan
+Toyota:Camry Solara:Coupe:Mid-size
+Toyota:Carina II:Family
+Toyota:Celica:Coupe:Sports
+Toyota:Century:Full-size:Luxury:Sedan
+Toyota:Comfort:Mid-size
+Toyota:Corolla:Compact:Subcompact
+Toyota:Corolla:Coupe:Hatchback:Sedan:Station Wagon:Van
+Toyota:Corolla:Coupe:Hatchback:Sedan
+Toyota:Corona:Compact:Family:Mid-size
+Toyota:Cressida:Luxury:Mid-size
+Toyota:Crown:Sedan:Station Wagon
+Toyota:Crown Comfort:Mid-size
+Toyota:Dyna:Truck
+Toyota:Land Cruiser:SUV:Truck
+Toyota:Fortuner:SUV
+Toyota:Grand Hiace:Mini
+Toyota:Granvia:Mini
+Toyota:Highlander:Mid-size:SUV
+Toyota:Hybrid X:Sedan
+Toyota:Innova:Mini
+Toyota:Ipsum:Mini
+Toyota:iQ:Hatchback:Micro
+Toyota:ist:Hatchback:Subcompact
+Toyota:Kijang:Truck
+Toyota:Land Cruiser:Full-size:SUV
+Toyota:Land Cruiser Prado:Mid-size:SUV
+Toyota:Land Cruiser:SUV:Truck
+Toyota:Mark X:Full-size:Mid-size:Sedan
+Toyota:Mark X ZiO:Compact:Full-size:SUV
+Toyota:Matrix:Compact:Hatchback
+Toyota:Mega Cruiser:SUV
+Toyota:MR2:Sports
+Toyota:Platz:Coupe:Sedan:Subcompact
+Toyota:Premio:Sedan
+Toyota:Previa:Mini
+Toyota:Prius:Compact:Electric
+Toyota:Publica:Compact:Coupe:Mini:Sedan:Station Wagon
+Toyota:Ractis:Subcompact
+Toyota:Raum:Hatchback:Mini
+Toyota:RAV4:Compact:SUV
+Toyota:RAV4 EV:Electric:SUV
+Toyota:Revo:Mini
+Toyota:Sequoia:SUV
+Toyota:Sera:Coupe
+Toyota:Sienna:Mini
+Toyota:Sienta:Mini
+Toyota:Sports 800:Coupe:Roadster:Sports
+Toyota:Sprinter:Compact
+Toyota:Starlet:Subcompact
+Toyota:Supra:Coupe:Hatchback:Sports
+Toyota:Tacoma:Truck
+Toyota:Tercel:Subcompact
+Toyota:Trekker:Truck
+Toyota:Tundra:Truck
+Toyota:MasterAce:Mini:Van
+Toyota:Vanguard:SUV
+Toyota:Venza:Mid-size:SUV:Station Wagon
+Toyota:Verossa:Sedan
+Toyota:Vios:Sedan:Subcompact
+Toyota:Vitz:Mini:Sedan:Subcompact
+Toyota:WISH:Compact:Mini
+Toyota:Yaris Verso:Mini
+Toyota:Volkswagen Taro:Truck
+Porsche:Carrera GT:Roadster:Sports
+Porsche:Boxster:Convertible:Roadster
+Porsche:911 classic:Convertible:Coupe:Sports
+Porsche:911:Coupe:Sports
+Porsche:Cayman:Coupe:Sports
+Porsche:Panamera:Full-size:Hatchback:Mid-size:Sedan
+Porsche:959:Coupe:Sports
+Porsche:356:Convertible:Coupe:Sports
+Porsche:Cayenne:Luxury:Mid-size:SUV
+Porsche:997:Convertible:Coupe:Sports
+Porsche:911 GT2:Coupe:Sports
+Porsche:Audi RS 2 Avant:Sports:Station Wagon
+Porsche:912:Coupe:Sports
+Porsche:356/1:Sports
+Porsche:Ruf CTR:Coupe:Sports
+Porsche:930:Convertible:Coupe:Sports
+Porsche:944:Convertible:Coupe:Sports
+Porsche:908:Coupe:Roadster:Sports
+Porsche:TechArt Magnum:SUV
+Porsche:911 GT3:Coupe:Sports
+Porsche:914:Coupe:Sports
+Porsche:914-6 GT:Coupe:Sports
+Porsche:928:Coupe
+Porsche:Mercedes-Benz 500E:Luxury:Mid-size:Sedan
+Porsche:964:Convertible:Coupe:Sports
+Porsche:968:Coupe:Sports
+Porsche:993:Coupe:Sports
+Porsche:996:Coupe
+Porsche:911 GT1:Sports
+Porsche:Ruf CTR2:Coupe:Sports
+Porsche:Ruf Rt 12:Coupe:Sports
+Porsche:TechArt 997 Carrera:Coupe:Sports
+Porsche:TechArt 997 Turbo:Coupe:Sports
+Porsche:TECHART GTsport:Coupe
+Porsche:924:Coupe:Sports
+Porsche:918:Coupe:Roadster
+Porsche:910:Electric
+British:MINI Cooper:Mini:Sedan:Truck:Van
+British:Mini Moke:Truck
+British:Nash Metropolitan:Economy:Subcompact
+British:Wolseley 15/60:Mid-size:Sedan
+British:Austin A40 Devon:Mid-size:Sedan:Station Wagon:Truck:Van
+British:Austin A40 Sports:Sports
+British:Austin Cambridge:Sedan:Station Wagon:Truck:Van
+British:Austin-Healey 100:Roadster:Sports
+British:Riley Pathfinder:Full-size:Sedan
+British:MG T-type:Sports
+British:Austin 1800:Family:Sedan:Truck
+British:Austin A30:Sedan:Station Wagon:Van
+British:Austin Kimberley:Mid-size:Sedan
+British:Morris Cowley:Mid-size:Sedan:Van
+British:Austin A35:Compact
+British:Morris Isis:Mid-size
+British:Morris Six MS:Mid-size:Sedan
+British:Austin A40 Somerset:Convertible:Mid-size:Sedan
+British:Leyland P76:Coupe:Full-size:Sedan:Station Wagon
+British:BMC ADO16:Compact:Sedan:Station Wagon
+British:MG Midget:Roadster:Sports
+British:Austin A40 Farina:Hatchback:Sedan
+British:Riley One-Point-Five:Mid-size:Sedan
+British:Riley Two-Point-Six:Sedan
+British:Wolseley 6/90:Mid-size:Sedan
+British:Wolseley 4/44:Sedan
+British:Morris Oxford:Mid-size:Truck:Van
+Mercedes-Benz:300SL:Coupe:Roadster:Sports
+Mercedes-Benz:SLR McLaren:Coupe:Roadster:Sports
+Mercedes-Benz:SLS AMG:Coupe:Luxury
+Mercedes-Benz:M-Class:Luxury:Mid-size:SUV
+Mercedes-Benz:SL-Class:Coupe:Luxury:Roadster
+Mercedes-Benz:CLS-Class:Coupe:Full-size:Sedan
+Mercedes-Benz:W201:Sedan
+Mercedes-Benz:Sprinter:Mini:Truck:Van
+Mercedes-Benz:SLK-Class:Convertible:Coupe:Roadster:Sports
+Mercedes-Benz:W126:Coupe:Full-size:Luxury:Sedan
+Mercedes-Benz:SSK:Sports
+Mercedes-Benz:G-Class:Mid-size:SUV
+Mercedes-Benz:R107 and C107:Coupe:Roadster
+Mercedes-Benz:A-Class:Compact:Mini:Subcompact
+Mercedes-Benz:Viano:Mini
+Mercedes-Benz:W221:Full-size:Luxury:Sedan
+Mercedes-Benz:GLK-Class:Luxury:SUV
+Mercedes-Benz:600:Full-size
+Mercedes-Benz:CL-Class:Coupe
+Mercedes-Benz:W111:Coupe:Full-size:Sedan
+Mercedes-Benz:Mitsubishi Triton:Truck
+Mercedes-Benz:W108:Full-size:Luxury:Sedan
+Mercedes-Benz:500K:Convertible
+Mercedes-Benz:W112:Coupe:Full-size:Luxury:Sedan
+Mercedes-Benz:260 D:Convertible:Full-size:Sedan
+Mercedes-Benz:W10:Roadster:Sedan
+Mercedes-Benz:W212:Coupe:Luxury:Mid-size:Sedan:Station Wagon
+Mercedes-Benz:W219:Coupe:Full-size:Luxury
+Mercedes-Benz:Vito:Van
+Mercedes-Benz:CLK GTR:Convertible:Coupe:Sports
+Mercedes-Benz:V-Class:Van
+Mercedes-Benz:W114:Coupe:Sedan
+Mercedes-Benz:S-Class:Full-size:Luxury:Sedan
+Mercedes-Benz:GL-Class:Full-size:Luxury:SUV
+Mercedes-Benz:190SL:Coupe:Roadster
+Mercedes-Benz:CLK-Class:Convertible:Coupe:Mid-size:Sports
+Mercedes-Benz:R-Class:Full-size:Mini:SUV:Station Wagon
+Mercedes-Benz:B-Class:Compact:Hatchback:Station Wagon
+Mercedes-Benz:W120:Mid-size:Roadster:Sedan
+Mercedes-Benz:E-Class:Luxury:Mid-size
+Daihatsu:Bee:Coupe:Micro
+Daihatsu:Charade:Hatchback:Mini
+Daihatsu:Consorte:Mini:Sedan
+Daihatsu:Copen:Roadster
+Daihatsu:Hijet:Truck:Van
+Daihatsu:Materia:Mini
+Daihatsu:Mira:Hatchback
+Daihatsu:Move:Hatchback
+Daihatsu:Pyzar:Mini
+Daihatsu:Rocky:SUV
+Daihatsu:Boon:Hatchback:Mini:Subcompact
+Daihatsu:Terios:SUV:Station Wagon
+Daihatsu:Mira Gino:Hatchback
+Daihatsu:Toyota Avanza:Mini
+Daihatsu:Toyota bB:Mini:Subcompact
+General:Hummer H2:Full-size:SUV:Truck
+General:Chevrolet Volt:Compact:Hybrid
+General:Cadillac Escalade:SUV:Truck
+General:Corvette Stingray:Convertible:Sports
+General:Chevrolet Camaro:Coupe:Sports
+General:Pontiac Aztek:Mid-size:SUV
+General:Hummer H3:SUV
+General:Chevrolet Chevette:Hatchback:Subcompact:Truck
+General:Chevrolet Corvette:Coupe:Sports
+General:Cadillac Cimarron:Compact:Sedan
+General:Chevrolet Corvair:Compact:Coupe:Sedan:Station Wagon:Van
+General:Chevrolet Malibu:Mid-size
+General:Chevrolet SSR:Convertible:Sports:Truck
+General:Chevrolet Vega:Coupe:Sedan:Subcompact
+General:Chevrolet Impala:Full-size
+General:Buick LaCrosse:Mid-size:Sedan
+General:Chevrolet Chevelle:Mid-size
+General:Buick Wildcat:Full-size:Sedan
+General:Chevrolet Suburban:SUV:Station Wagon
+General:Chevrolet Caprice:Full-size
+General:Chevrolet Colorado:Truck
+General:Chevrolet Corvette C6 ZR1:Sports
+General:Pontiac Vibe:Compact:Hatchback
+General:Cadillac Fleetwood:Full-size:Luxury
+General:Pontiac Grand Am:Coupe:Sedan
+General:Chevrolet Cruze:Compact:Hatchback:SUV:Sedan
+General:Buick LeSabre:Full-size
+General:Vauxhall Astra:Compact:Hatchback:Sedan:Station Wagon
+General:Chevrolet Chevy II / Nova:Compact:Subcompact
+General:Pontiac Firebird:Coupe
+General:Pontiac Grand Prix:Luxury:Mid-size
+General:Opel Corsa:Mini
+General:Chevrolet Corvette C6:Coupe:Sports
+General:Buick Enclave:Full-size:SUV
+General:Oldsmobile Cutlass:Compact:Mid-size
+General:Chevrolet Traverse:Mini:SUV
+General:Buick Lucerne:Full-size:Sedan
+General:Cadillac CTS-V:Sedan
+General:Corvette Mako Shark:Convertible:Sports
+General:Oldsmobile 442:Coupe
+General:Cadillac SRX:Mid-size:SUV
+General:Pontiac Solstice:Coupe:Roadster
+General:Buick Regal:Luxury:Mid-size
+General:Buick Rendezvous:Mid-size:SUV
+General:Buick Roadmaster:Full-size
+General:Chevrolet C/K:Full-size:Truck
+General:GMC Acadia:Full-size:SUV
+General:Buick Skyhawk:Compact:Subcompact
+General:Chevrolet Bel Air:Full-size
+General:Pontiac G5:Compact:Coupe:Sedan
+General:Pontiac G6:Convertible:Coupe:Mid-size:Sedan
+General:Buick Somerset:Compact:Coupe:Sedan
+General:Chevrolet Cavalier:Compact:Subcompact
+General:Buick Terraza:Mini:Van
+General:Chevrolet Cobalt:Compact:Coupe:Sedan
+General:Opel Astra:Compact
+General:Saturn Vue:SUV
+General:Buick Electra:Full-size
+General:Oldsmobile Cutlass Supreme:Mid-size
+General:Buick Riviera:Luxury
+General:Chevrolet HHR:Compact:SUV:Station Wagon
+General:Chevrolet Cobalt SS:Coupe:Sedan
+General:Chevrolet Monza:Coupe:Hatchback:Station Wagon:Subcompact
+General:Buick Reatta:Convertible:Coupe:Sports
+General:Chevrolet Corvette C4:Coupe:Sports
+General:Corvair Monza GT:Coupe:Sports
+General:Buick Special:Full-size:Mid-size
+General:Buick Super:Full-size:Sedan
+General:Buick Invicta:Convertible:Full-size:Station Wagon
+General:Chevrolet Monte Carlo:Luxury
+General:Cadillac DTS:Full-size:Luxury:Sedan
+General:Chevrolet LUV:Truck
+General:Pontiac Montana:Mini
+General:Cadillac STS:Full-size:Luxury:Mid-size:Sedan
+General:Saturn Aura:Mid-size:Sedan
+General:Chevrolet Celebrity:Coupe:Mid-size:Sedan:Station Wagon
+General:Chevrolet S-10:Truck
+General:Opel Ascona:Family:Hatchback:Sedan:Station Wagon
+General:Buick Century:Coupe:Full-size:Mid-size:Sedan:Station Wagon
+General:Chevrolet Uplander:Mini
+General:Cadillac Catera:Luxury:Mid-size:Sedan
+General:Motors EV1:Electric:Subcompact
+General:Chevrolet S-10 Blazer:Mid-size:SUV
+General:Chevrolet Avalanche:Full-size:Truck
+General:Oldsmobile Alero:Compact:Coupe:Sedan
+General:Saab 9-7X:Mid-size:SUV
+General:Opel Calibra:Coupe:Sports
+General:Oldsmobile Bravada:Mid-size:SUV
+General:Saturn Ion:Compact:Sedan
+General:Oldsmobile Custom Cruiser:Full-size:Station Wagon
+General:Opel GT:Coupe:Roadster
+General:Saturn L-Series:Mid-size:Sedan:Station Wagon
+General:Saturn Outlook:Mini:SUV
+General:Cadillac Series 65:Convertible:Luxury:Sedan
+General:Chevrolet Trailblazer:SUV
+General:Chevrolet Lumina:Full-size:Mid-size
+General:Opel Zafira:Mini
+General:Pontiac 2+2:Coupe
+General:Pontiac 6000:Coupe:Mid-size:Sedan:Station Wagon
+General:Pontiac Parisienne:Coupe:Full-size:Sedan
+General:Cadillac Brougham:Full-size:Luxury:Sedan
+General:Pontiac Bonneville:Full-size:Mid-size
+General:Pontiac Catalina:Full-size
+General:Pontiac Sunbird:Compact:Subcompact
+General:Isuzu D-Max:Mid-size:Truck
+General:Pontiac Trans Sport:Mini
+General:Chevrolet Corvette C1:Sports
+General:Oldsmobile 88:Full-size
+General:Cadillac de Ville series:Full-size:Luxury
+General:Chevrolet Express:Full-size:Van
+General:Chevrolet K5 Blazer:SUV
+General:Oldsmobile 98:Full-size
+General:GMC Envoy:Full-size:Mid-size:SUV
+General:Buick Estate:Full-size:Station Wagon
+General:Cadillac Fleetwood Brougham:Coupe:Full-size:Luxury:Sedan
+General:Buick GL8:Mini:Van
+General:Chevrolet Kodiak:Truck
+General:Pontiac Grand Ville:Coupe:Full-size:Sedan
+General:Saturn Relay:Mini:Van
+General:Chevrolet Lumina APV:Mini:Van
+General:Pontiac LeMans:Mid-size
+General:Isuzu Ascender:Full-size:Mid-size:SUV
+General:Cadillac BLS:Sedan
+General:Cadillac Seville:Luxury:Mid-size
+General:Chevrolet Venture:Mini
+General:Oldsmobile Firenza:Compact:Coupe:Hatchback:Sedan:Station Wagon
+General:Buick Park Avenue:Full-size:Luxury:Sedan
+General:Cadillac Sixty Special:Full-size:Luxury:Sedan
+General:Isuzu i-Series:Mid-size:Truck
+General:Buick Rainier:Mini:SUV
+General:Chevrolet Corsica:Compact:Hatchback:Mid-size:Sedan
+General:Vauxhall Cavalier:Family
+General:Yenko Camaro:Coupe:Sports
+General:Sonoma GT:Truck
+General:Pontiac Fiero:Sports
+General:Oldsmobile Aurora:Full-size:Luxury:Mid-size:Sedan
+General:Chevrolet Beretta:Compact:Coupe:Mid-size
+General:Chevrolet Advance Design:Truck
+General:Chevrolet Tavera:Compact
+General:Opel Omega:Sedan:Station Wagon
+General:Cadillac Series 60:Coupe:Full-size:Luxury:Sedan
+General:Oldsmobile Cutlass Calais:Compact:Coupe:Sedan
+General:Opel Rekord:Coupe:Family:Full-size:Sedan:Station Wagon
+General:Chevrolet Aerovette:Coupe:Sports
+General:Saturn Sky:Roadster:Sports
+General:Cadillac Series 62:Luxury:Mid-size
+General:Cadillac Series 70:Coupe:Luxury:Sedan
+General:Chevrolet Task Force:Truck
+General:Oldsmobile Omega:Compact
+General:Vauxhall Belmont:Compact:Sedan
+General:Lotus Carlton:Sedan:Sports
+General:Oldsmobile Silhouette:Van
+General:Cadillac V-16:Luxury
+General:Oldsmobile Starfire:Full-size:Hatchback:Subcompact
+General:Cadillac XLR:Luxury:Roadster
+General:Oldsmobile Vista Cruiser:Mid-size:Station Wagon
+General:Pontiac Executive:Full-size:Sedan:Station Wagon
+General:Saab 9-4X:Luxury:Mid-size:SUV
+General:1957 Chevrolet:Sedan:Station Wagon
+General:Holden Suburban:Full-size:SUV
+General:Cadillac Series 61:Compact:Luxury
+General:Oldsmobile Cutlass Ciera:Coupe:Mid-size:Sedan:Station Wagon
+General:Opel Sintra:Mini
+General:Chevrolet Beauville:Van
+General:Oldsmobile Cutlass Cruiser:Mid-size:Station Wagon
+General:Cadillac Allanté:Luxury:Roadster
+General:Isuzu Hombre:Compact:Truck
+General:Chevrolet Sequel:Electric:Full-size:Hybrid:SUV
+General:Oldsmobile Intrigue:Mid-size:Sedan
+General:Cadillac Calais:Coupe:Full-size:Luxury:Sedan
+General:Pontiac Chieftain:Convertible:Coupe:Full-size:Sedan:Station Wagon
+General:Vauxhall Chevette:Compact:Sedan
+General:Chevrolet Astro:Mini:Van
+General:Pontiac Pathfinder:Sedan
+General:Isuzu Rodeo:Truck
+General:Oldsmobile O4:Roadster
+Acura:TSX:Sedan:Station Wagon
+Acura:MDX:Mid-size:SUV
+Acura:RL:Full-size:Luxury:Mid-size:Sedan
+Acura:Honda Integra DC5:Compact:Luxury
+Acura:TL:Luxury:Mid-size:Sedan
+Acura:RDX:SUV
+Acura:CL:Coupe:Luxury:Mid-size
+Acura:CSX:Sedan
+Acura:EL:Sedan
+Acura:Legend:Coupe:Luxury:Mid-size:Sedan
+Acura:Honda Vigor:Luxury:Mid-size:Sedan
+Acura:ZDX:Hatchback:Mid-size:SUV:Station Wagon
+Mazda:MX-5:Roadster
+Mazda:Mazda3:Compact:Sedan
+Mazda:RX-8:Coupe:Sports
+Mazda:Tribute:Compact:SUV
+Mazda:B-Series:Truck
+Mazda:RX-7:Coupe:Sports
+Mazda:CX-9:Full-size:Mid-size:SUV
+Mazda:MPV:Mini
+Mazda:MX-3:Hatchback
+Mazda:Capella:Compact:Mid-size
+Mazda:Ford Festiva:Hatchback:Subcompact
+Mazda:Autozam Revue:Mini:Sedan:Subcompact
+Mazda:Efini MS-8:Compact:Luxury
+Mazda:Ford Laser:Compact
+Mazda:Millenia:Mid-size:Sedan
+Mazda:BT-50:Truck
+Mazda:Sentia:Luxury
+Mazda:Cronos:Compact:Sedan
+Mazda:MX-6:Coupe
+Mazda:CX-7:SUV
+Mazda:Porter:Truck:Van
+Mazda:Navajo:SUV
+Mazda:R360:Sedan:Truck
+Mazda:Kabura:Coupe
+Mazda:Roadpacer AP:Full-size:Sedan
+Mazda:Laputa:Hatchback
+Mazda:Ford Courier:Truck
+Mazda:RX-2:Coupe:Mid-size:Sedan
+Mazda:RX-3:Coupe:Sedan:Sports:Station Wagon
+Mazda:Bongo:Van
+Mazda:RX-4:Coupe:Sedan:Station Wagon
+Mazda:Mazda6:Mid-size:Sedan
+Mazda:Carol:Sedan
+Mazda:Verisa:Hatchback:Subcompact
+Mazda:Ryuga:Coupe
+Mazda:R100:Coupe
+Mazda:Xedos 6:Luxury:Mid-size
+Mazda:Rotary Pickup:Compact:Truck
+Mazda:Savanna:Coupe:Sports
+Mazda:CX-5:SUV
+Mazda:Persona:Mid-size:Sedan
+Mazda:Familia:Compact:Coupe:Hatchback:Sedan:Subcompact
+Mazda:Demio:Mini:Subcompact
+Mazda:929:Full-size:Mid-size
+Maserati:Ghibli:Coupe:Roadster
+Maserati:Quattroporte:Full-size:Luxury:Sedan
+Maserati:3500:Coupe:Roadster
+Maserati:Biturbo:Convertible:Coupe:Luxury:Sedan:Sports
+Maserati:MC12:Coupe
+Maserati:Bora:Coupe
+Maserati:GranTurismo:Coupe:Sports
+Maserati:Coupé:Coupe:Roadster
+Maserati:Khamsin:Coupe:Sports
+Maserati:Merak:Coupe:Sports
+Maserati:5000 GT:Coupe
+Maserati:Indy:Coupe:Sports
+Maserati:420:Sedan
+Maserati:3200 GT:Coupe
+Maserati:Barchetta:Roadster
+Maserati:Tipo 61:Roadster
+Maserati:Sebring:Coupe:Roadster
+Maserati:Racing:Coupe:Luxury:Sedan:Sports
+Maserati:Karif:Coupe
+Honda:Fit:Compact:Mini:Subcompact
+Honda:Accord:Compact:Full-size:Mid-size
+Honda:Civic Hybrid:Compact:Electric:Sedan
+Honda:CR-V:Compact:SUV
+Honda:Odyssey:Mini
+Honda:Element:Economy:SUV
+Honda:Insight:Compact:Hatchback:Subcompact
+Honda:CR-Z:Hatchback:Mini:Subcompact
+Honda:Civic:Compact:Subcompact
+Honda:Accord Hybrid:Electric:Sedan
+Honda:Pilot:Full-size:Mid-size:SUV
+Honda:S2000:Roadster:Sports
+Honda:Civic Type R:Hatchback:Sedan
+Honda:FCX Clarity:Sedan
+Honda:Ridgeline:Full-size:Mid-size:SUV:Truck
+Honda:Passport:SUV:Station Wagon
+Honda:Prelude:Coupe
+Honda:Stream:Compact:Mini
+Honda:Acty:Truck:Van
+Honda:NSX:Coupe:Sports
+Honda:FR-V:Hatchback
+Honda:Legend:Coupe:Full-size:Luxury:Mid-size:Sedan
+Honda:S800:Coupe:Roadster:Sports
+Honda:Mobilio Spike:Hatchback
+Honda:Ascot:Mid-size:Sedan
+Honda:Beat:Roadster
+Honda:City:Hatchback:Sedan:Subcompact
+Honda:Inspire:Mid-size:Sedan
+Honda:S500:Coupe:Roadster:Sports
+Honda:1300:Compact:Coupe:Sedan
+Honda:Crossroad:SUV
+Honda:L700:Station Wagon:Truck
+Honda:Freed:Compact:Mini
+Honda:Logo:Hatchback:Mini
+Honda:N360:Coupe:Hatchback:Sedan:Station Wagon
+Honda:T360:Truck:Van
+Honda:That's:Hatchback
+Honda:Airwave:Station Wagon:Subcompact
+Honda:Today:Hatchback
+Honda:Stepwgn:Mid-size:Mini
+Honda:Z600:Coupe
+Honda:Zest:Hatchback
+Honda:Capa:Hatchback
+Honda:Quint:Sedan
+Honda:HR-V:Hatchback:SUV
+Honda:Integra:Compact
+Honda:S600:Coupe:Roadster:Sports
+Honda:S360:Roadster:Sports
+Honda:Z:Coupe:Micro:SUV
+Honda:Ballade:Compact
+Honda:Civic GX:Compact:Sedan:Subcompact
+Honda:Elysion:Mini
+Honda:CR-X del Sol:Roadster
+Honda:CR-X:Compact:Hatchback:Sports
+Honda:FCX:Sedan
+Honda:Odyssey:Mini
+Cadillac:Escalade:SUV:Truck
+Cadillac:Cimarron:Compact:Sedan
+Cadillac:Fleetwood:Full-size:Luxury
+Cadillac:CTS-V:Sedan
+Cadillac:SRX:Mid-size:SUV
+Cadillac:STS-V:Full-size:Luxury:Mid-size:Sedan
+Cadillac:Eldorado:Full-size:Luxury
+Cadillac:STS:Full-size:Luxury:Mid-size:Sedan
+Cadillac:DTS:Full-size:Luxury:Sedan
+Cadillac:Coupe de Ville:Luxury
+Cadillac:Brougham:Full-size:Luxury:Sedan
+Cadillac:Series 65:Convertible:Luxury:Sedan
+Cadillac:de Ville series:Full-size:Luxury
+Cadillac:BLS:Sedan
+Cadillac:Seville:Luxury:Mid-size
+Cadillac:Sixty Special:Full-size:Luxury:Sedan
+Cadillac:Fleetwood Brougham:Coupe:Full-size:Luxury:Sedan
+Cadillac:Series 60:Coupe:Full-size:Luxury:Sedan
+Cadillac:Series 62:Luxury:Mid-size
+Cadillac:Series 70:Coupe:Luxury:Sedan
+Cadillac:V-16:Luxury
+Cadillac:XLR:Luxury:Roadster
+Cadillac:Allanté:Luxury:Roadster
+Cadillac:Series 61:Compact:Luxury
+Cadillac:Calais:Coupe:Full-size:Luxury:Sedan
+Cadillac:Elvis' Pink Cadillac:Full-size:Luxury:Sedan
+Cadillac:XTS:Full-size:Luxury
+Hyundai:Kia Optima:Mid-size:Sedan
+Hyundai:Sonata:Mid-size:Sedan
+Hyundai:Accent:Compact:Subcompact
+Hyundai:Tucson:SUV
+Hyundai:Santa Fe:Mid-size:SUV
+Hyundai:Entourage:Mini
+Hyundai:Grandeur:Full-size:Mid-size:Sedan
+Hyundai:Genesis:Full-size:Sedan
+Hyundai:Genesis Coupe:Coupe:Sports
+Hyundai:Veracruz:Full-size:Mid-size:SUV
+Hyundai:Equus:Full-size:Luxury:Sedan
+Hyundai:Getz:Hatchback:Mini:Subcompact
+Hyundai:Pony:Subcompact
+Hyundai:i10:Hatchback
+Hyundai:Scoupe:Coupe:Sports
+Hyundai:Terracan:SUV
+Hyundai:Tiburon:Compact:Coupe:Sports
+Hyundai:Trajet:Mini
+Hyundai:Excel:Hatchback:Sedan:Subcompact
+Hyundai:i20:Mini:Subcompact
+Hyundai:Stellar:Mid-size
+Hyundai:Verna:Subcompact
+Hyundai:Marcia:Mid-size
+Hyundai:Atos:Hatchback
+Hyundai:Portico:Full-size:SUV
+Hyundai:i30:Compact:Hatchback:Station Wagon
+Hyundai:Mighty II:Truck
+Hyundai:e-Mighty:Truck
+Hyundai:Galloper:SUV
+Opel:Vauxhall Astra:Compact:Hatchback:Sedan:Station Wagon
+Opel:Corsa:Mini
+Opel:Buick Regal:Luxury:Mid-size
+Opel:Vectra:Family
+Opel:Astra:Compact
+Opel:Holden Barina:Hatchback:Mini:Sedan
+Opel:Cadillac Catera:Luxury:Mid-size:Sedan
+Opel:Holden Astra:Coupe:Hatchback:Sedan:Station Wagon
+Opel:Manta:Coupe:Hatchback
+Opel:Agila:Hatchback
+Opel:Ascona:Family:Hatchback:Sedan:Station Wagon
+Opel:Zafira:Mini
+Opel:GT:Coupe:Roadster
+Opel:Calibra:Coupe:Sports
+Opel:Diplomat:Full-size:Luxury:Sedan
+Opel:Kadett:Compact
+Opel:Meriva:Mini
+Opel:Vauxhall Cavalier:Family
+Opel:Kapitän:Full-size:Luxury:Sedan
+Opel:Signum:Family:Hatchback
+Opel:Tigra:Sports
+Opel:Vauxhall Belmont:Compact:Sedan
+Opel:Lotus Carlton:Sedan:Sports
+Opel:Omega:Sedan:Station Wagon
+Opel:Rekord:Coupe:Family:Full-size:Sedan:Station Wagon
+Opel:Vivaro:Van
+Opel:Vauxhall Carlton:Sedan:Station Wagon
+Opel:Admiral:Full-size:Luxury:Sedan
+Opel:Insignia:Family:Hatchback:Sedan:Station Wagon
+Opel:Laubfrosch:Sedan
+Opel:Super 6:Convertible:Coupe:Luxury:Sedan
+Opel:Antara:SUV:Station Wagon
+Opel:GM HydroGen4:Mid-size:SUV
+Aston Martin:DB5:Coupe:Sports
+Aston Martin:Lagonda:Sedan
+Aston Martin:V8 Vantage (2005):Coupe:Roadster
+Aston Martin:DBS:Coupe
+Aston Martin:DB7:Coupe
+Aston Martin:Vanquish:Coupe
+Aston Martin:DBS V12:Coupe
+Aston Martin:DB9:Convertible:Coupe
+Aston Martin:V8 Vantage (1977):Convertible:Coupe
+Aston Martin:V8:Coupe
+Aston Martin:DB4 GT Zagato:Coupe
+Aston Martin:DB6:Coupe:Sports
+Aston Martin:Lagonda Rapide:Sedan
+Aston Martin:DB Mark III:Convertible:Coupe:Hatchback:Sports
+Aston Martin:Le Mans:Sports
+Aston Martin:DB2:Coupe:Sports
+Aston Martin:DB2/4:Convertible:Hatchback:Sports
+Aston Martin:DB4:Coupe:Hatchback:Sports
+Aston Martin:One-77:Coupe
+Aston Martin:V8 Zagato:Coupe
+Aston Martin:DB7 Zagato:Convertible:Coupe
+Aston Martin:Lagonda 3-Litre:Convertible:Luxury:Sedan
+Aston Martin:DB AR1:Roadster
+Aston Martin:2-Litre Sports:Roadster:Sports
+Aston Martin:Short Chassis Volante:Roadster
+Aston Martin:Vantage:Coupe:Sports
+Volvo:XC90:Mid-size:SUV
+Volvo:C30:Compact:Hatchback
+Volvo:S60:Sedan
+Volvo:V50:Compact
+Volvo:200 Series:Coupe:Luxury:Mid-size:Sedan:Station Wagon
+Volvo:XC60:SUV
+Volvo:V40:Compact
+Volvo:C70:Coupe
+Volvo:V70:Mid-size:SUV:Station Wagon
+Volvo:700 Series:Luxury:Mid-size
+Volvo:164:Luxury:Sedan
+Volvo:850:Sedan:Station Wagon
+Volvo:S70:Mid-size:Sedan
+Volvo:140 Series:Coupe:Mid-size:Sedan:Station Wagon
+Volvo:300 Series:Compact:Hatchback:Sedan
+Volvo:P1800:Coupe:Sports:Station Wagon
+Volvo:440/460:Compact:Hatchback:Sedan
+Volvo:P1900:Roadster
+Volvo:480:Compact:Hatchback
+Volvo:66:Sedan:Station Wagon
+Volvo:S80:Luxury:Mid-size:Sedan
+Volvo:PV 60:Sedan
+Volvo:PV444/544:Hatchback
+Volvo:PV51-57:Sedan
+Volvo:PV 36 Carioca:Sedan
+Volvo:PV801-10:Sedan
+Volvo:VCC:Luxury:Sedan:Station Wagon
+Volvo:ReCharge:Compact
+Dodge:Durango:Full-size:Mid-size:SUV
+Dodge:Challenger:Subcompact
+Dodge:Charger:Coupe:Mid-size
+Dodge:Ford Model T:Coupe:Roadster:SUV:Sedan:Truck
+Dodge:Dakota:Mid-size:Truck
+Dodge:SRT Viper:Sports
+Dodge:Caravan:Mini
+Dodge:Polara:Full-size
+Dodge:Stratus:Mid-size
+Dodge:Ram SRT-10:Sports:Truck
+Dodge:Neon SRT-4:Sedan
+Dodge:D Series:Truck
+Dodge:Diplomat:Coupe:Mid-size:Sedan:Station Wagon
+Dodge:Dart:Compact:Full-size:Mid-size
+Dodge:Regent:Coupe:Full-size:Sedan
+Dodge:400:Convertible:Coupe:Mid-size:Sedan
+Dodge:600:Convertible:Coupe:Mid-size:Sedan
+Dodge:M37:Full-size:Truck
+Dodge:EV:Electric:Sports
+Dodge:Ram Daytona:Truck
+Dodge:Journey:Mid-size:SUV:Station Wagon
+Dodge:Colt:Compact:Subcompact
+Dodge:Mitsubishi Triton:Truck
+Dodge:Meadowbrook:Coupe:Full-size:Sedan:Station Wagon
+Dodge:Mercedes-Benz Sprinter:Mini:Truck:Van
+BMW:M3:Sports
+BMW:3 Series:Coupe:Hatchback:Sedan:Station Wagon
+BMW:X3:SUV
+BMW:Z4:Coupe:Roadster
+BMW:M5:Luxury:Mid-size:Sedan
+BMW:1 Series:Compact:Mini
+BMW:X5:Mid-size:SUV
+BMW:X6:Coupe:Hatchback:Luxury:Mid-size:Sedan
+BMW:Z8:Convertible:Sports
+BMW:5 Series:Mid-size:Sedan:Station Wagon
+BMW:M1:Coupe:Sports
+BMW:M6:Coupe
+BMW:Z3:Coupe:Roadster
+BMW:7 Series:Full-size:Luxury:Sedan
+BMW:328:Roadster:Sports
+BMW:507:Roadster
+BMW:3200 CS:Coupe
+BMW:6 Series:Coupe
+BMW:X5:Mid-size:SUV
+BMW:Z1:Roadster
+BMW:Brilliance BS6:Family:Sedan
+BMW:Mini E:Compact:Hatchback:Subcompact
+BMW:3 Series:Coupe:Sedan:Station Wagon
+BMW:321:Convertible:Sedan
+BMW:327:Convertible:Coupe
+BMW:6 Series:Luxury
+BMW:503:Convertible:Coupe
+BMW:New Class:Coupe
+BMW:8 Series:Coupe
+BMW:Compact:Compact:Hatchback
+BMW:2002tii:Coupe
+BMW:315:Roadster:Sports
+BMW:Isetta:Micro
+BMW:326:Convertible:Sedan
+BMW:335:Sedan
+BMW:340:Sedan:Station Wagon
+BMW:501:Coupe:Sedan
+BMW:New Six:Coupe:Sedan
+BMW:Hydrogen 7:Luxury
+BMW:V7:Full-size:SUV
+BMW:F3:SUV
+BMW:3 Series Gran Turismo:Mini:Station Wagon
+BMW:X1:SUV
+Ferrari:Daytona:Sports
+Ferrari:250 GTO:Sports
+Ferrari:F430:Roadster:Sports
+Ferrari:F40:Coupe:Sports
+Ferrari:Enzo Ferrari:Sports
+Ferrari:456 GT:Coupe:Roadster:Sedan:Station Wagon
+Ferrari:288 GTO:Sports
+Ferrari:612 Scaglietti:Coupe
+Ferrari:California:Convertible
+Ferrari:308 GTB/GTS:Sports
+Ferrari:575M Maranello:Coupe
+Ferrari:F355:Roadster:Sports
+Ferrari:328:Sports
+Ferrari:550:Convertible:Coupe:Sports
+Ferrari:Testarossa:Sports
+Ferrari:Dino:Sports
+Ferrari:330:Sports
+Ferrari:125 S:Sports
+Ferrari:Mythos:Coupe
+Ferrari:P4/5 by Pininfarina:Sports
+Ferrari:Auto Avio Costruzioni 815:Sports
+Ferrari:Berlinetta Boxer:Sports
+Ferrari:TR:Sports
+Ferrari:348:Roadster:Sports
+Ferrari:166 Inter:Coupe
+Ferrari:166 S:Roadster:Sports
+Ferrari:365:Sports
+Ferrari:F430 Challenge:Coupe
+Ferrari:212 Inter:Sports
+Ferrari:GT4:Coupe:Sports
+Ferrari:Mondial:Convertible:Coupe:Sports
+Ferrari:Ferrarri 550 Barchetta:Sports
+Ferrari:212 Export:Sports
+Ferrari:159 S:Sports
+Ferrari:F50 GT:Sports
+Ferrari:195 S:Sports
+Ferrari:430 Scuderia:Sports
+Ferrari:360:Coupe:Roadster:Sports
+Volkswagen:Jetta:Compact:Subcompact
+Volkswagen:Touareg:Luxury:Mid-size:SUV
+Volkswagen:Eos:Compact:Convertible:Coupe
+Volkswagen:New Beetle:Compact:Hatchback:Sedan:Subcompact
+Volkswagen:Bentley Continental Flying Spur:Full-size:Luxury:Sedan
+Volkswagen:Porsche Cayenne:Luxury:Mid-size:SUV
+Volkswagen:Passat:Compact:Family:Mid-size:Sedan:Station Wagon
+Volkswagen:Phaeton:Full-size:Luxury:Sedan
+Volkswagen:Gol:Hatchback:Station Wagon:Subcompact:Truck
+Volkswagen:Tiguan:Compact:SUV
+Volkswagen:Corrado:Coupe
+Volkswagen:Beetle:Economy:Sedan:Subcompact
+Volkswagen:Scirocco:Hatchback
+Volkswagen:Transporter:Mini:Truck:Van
+Volkswagen:Golf Mk5:Compact:Hatchback:Station Wagon
+Volkswagen:Polo:Hatchback:Mini:Sedan:Station Wagon:Subcompact
+Volkswagen:Golf Cabriolet:Compact:Subcompact
+Volkswagen:K70:Mid-size:Sedan
+Volkswagen:Karmann Ghia:Coupe:Sports
+Volkswagen:Kübelwagen:Roadster
+Volkswagen:Type 3:Compact:Coupe:Hatchback:Station Wagon
+Volkswagen:Derby:Coupe:Mini:Sedan
+Volkswagen:Amarok:Truck
+Volkswagen:Concept BlueSport:Roadster
+Volkswagen:Fox:Hatchback:Mini:SUV:Station Wagon:Subcompact
+Volkswagen:Golf Variant:Station Wagon
+Volkswagen:181:Convertible:SUV
+Volkswagen:Iltis:Convertible
+Volkswagen:Sharan:Mini
+Volkswagen:SP2:Sports
+Volkswagen:Brasilia:Economy
+Volkswagen:Citi Golf:Compact:Hatchback
+Volkswagen:Touran:Mini
+Volkswagen:LT:Truck:Van
+Volkswagen:Type 2:Truck:Van
+Volkswagen:Type 4:Sedan:Station Wagon
+Volkswagen:Type 2 (T3):Mini:Van
+Volkswagen:Audi 50:Hatchback:Mini
+Volkswagen:Constellation:Truck
+Volkswagen:CC:Coupe:Family:Full-size:Mid-size:Sedan
+Volkswagen:Shanghai-Volkswagen Lavida:Compact:Sedan
+Volkswagen:Polo Mk5:Hatchback:Mini
+Volkswagen:Crafter:Truck:Van
+Volkswagen:Transporter:Truck:Van
+Volkswagen:Golf Mk1:Compact
+Volkswagen:EA489 Basistransporter:Truck
+Volkswagen:Golf:Compact:Subcompact
+Ferrari:Auto Avio Costruzioni 815:Sports
+Ferrari:Dino:Sports
+Ferrari:125 S:Sports
+Ferrari:159 S:Sports
+Ferrari:166 Inter:Coupe
+Ferrari:166 S:Roadster:Sports
+Ferrari:195 S:Sports
+Ferrari:212 Export:Sports
+Ferrari:212 Inter:Sports
+Ferrari:250 GTO:Sports
+Ferrari:288 GTO:Sports
+Ferrari:308 GTB/GTS:Sports
+Ferrari:328:Sports
+Ferrari:330:Sports
+Ferrari:348:Roadster:Sports
+Ferrari:360:Coupe:Roadster:Sports
+Ferrari:365:Sports
+Ferrari:456 GT:Coupe:Roadster:Sedan:Station Wagon
+Ferrari:550:Convertible:Coupe:Sports
+Ferrari:575M Maranello:Coupe
+Ferrari:612 Scaglietti:Coupe
+Ferrari:Berlinetta Boxer:Sports
+Ferrari:California:Convertible
+Ferrari:Daytona:Sports
+Ferrari:Enzo Ferrari:Sports
+Ferrari:F355:Roadster:Sports
+Ferrari:F40:Coupe:Sports
+Ferrari:F430:Roadster:Sports
+Ferrari:F430 Challenge:Coupe
+Ferrari:F50 GT:Sports
+Ferrari:GT4:Coupe:Sports
+Ferrari:Mondial:Convertible:Coupe:Sports
+Ferrari:Mythos:Coupe
+Ferrari:P4/5 by Pininfarina:Sports
+Ferrari:Testarossa:Sports
+Ferrari:TR:Sports
+Ferrari:Ferrarri 550 Barchetta:Sports
+MG:XPower SV:Coupe:Sports
+MG:MGB:Sports
+MG:F / MG TF:Roadster
+MG:P-type Midget:Coupe:Roadster:Sports
+MG:F-type Magna:Sports
+MG:MGA:Coupe:Roadster:Sports
+MG:M-type Midget:Coupe:Roadster:Sports
+MG:Midget:Roadster:Sports
+MG:T-type:Sports
+MG:ZS:Mid-size
+MG:14/28:Sports
+MG:N-type Magnette:Sports
+MG:14/40:Sports
+MG:C-type Midget:Sports
+MG:D-type Midget:Sports
+MG:J-type Midget:Roadster:Sports
+MG:K-type Magnette:Sports
+MG:L-type Magna:Sports
+MG:Magnette ZA:Mid-size:Sedan
+MG:ZT:Sedan:Station Wagon
+MG:3:Hatchback:Mini
+MG:6:Hatchback
+MG:7:Sedan
+MG:X-Power WR:Coupe:Sports
+MG:5:Compact:Hatchback
+Fiat:500:Coupe:Sedan:Station Wagon
+Fiat:Multipla:Compact:Mini
+Fiat:Suzuki SX4:Compact:Hatchback:Sedan:Subcompact
+Fiat:Uno:Mini:Sedan
+Fiat:Barchetta:Convertible:Roadster:Sports
+Fiat:500:Hatchback
+Fiat:126:Sedan
+Fiat:127:Hatchback:Sedan:Station Wagon
+Fiat:Strada:Truck
+Fiat:147:Compact:Hatchback:Sedan:Station Wagon:Van
+Fiat:Regata:Compact:Sedan:Station Wagon
+Fiat:128:Compact:Coupe:Sedan:Station Wagon
+Fiat:Fiorino:Truck
+Fiat:Sedici:Hatchback:SUV
+Fiat:Albea:Compact:Sedan
+Fiat:Bravo/Brava:Compact:Hatchback
+Fiat:Tipo:Compact:Hatchback
+Fiat:Autobianchi Y10:Hatchback
+Fiat:Palio:Compact:Hatchback:Mini:SUV:Station Wagon
+Fiat:242:Van
+Fiat:Palio Weekend:Station Wagon
+Fiat:X1/9:Roadster:Sports
+Fiat:Dino:Coupe:Roadster:Sports
+Fiat:509:Convertible:Roadster:Sedan
+Fiat:Ritmo:Compact:Hatchback
+Fiat:519:Convertible:Sedan
+Fiat:Idea:Mini
+Fiat:Seicento:Hatchback:Van
+Fiat:131:Compact:Mid-size:Sedan:Station Wagon
+Fiat:Marea:Compact:Family:Sedan:Station Wagon
+Fiat:503:Convertible:Sedan
+Fiat:1400:Convertible:Coupe:Sedan
+Fiat:Tempra:Family:Sedan:Station Wagon
+Fiat:505:Convertible:Sedan
+Fiat:Oggi:Sedan
+Fiat:507:Convertible:Sedan
+Fiat:2300:Coupe:Full-size:Sedan:Station Wagon
+Fiat:500 "Topolino":Convertible:Coupe:Micro:Station Wagon
+Fiat:520:Convertible:Luxury:Sedan
+Fiat:Eurovans:Mini
+Fiat:522:Convertible:Coupe:Sedan
+Fiat:1100:Compact:Sedan
+Fiat:2800:Family:Sedan
+Fiat:Coupé:Coupe:Sports
+Fiat:525:Convertible:Roadster:Sedan
+Fiat:124:Family:Sedan:Station Wagon
+Fiat:527:Sedan
+Fiat:124 Coupé:Coupe
+Fiat:Panorama:Station Wagon:Subcompact
+Fiat:508:Coupe:Roadster:Sedan
+Fiat:Zastava 10:Hatchback:Subcompact
+Fiat:1200:Convertible:Coupe:Sedan
+Fiat:514:Convertible:Roadster:Sedan
+Fiat:Duna:Compact:Mini:Sedan:Station Wagon
+Fiat:518:Convertible:Roadster:Sedan
+Fiat:1800/2100:Sedan:Station Wagon
+Fiat:238:Van
+Fiat:1500:Sedan
+Fiat:130:Coupe:Sedan:Station Wagon
+Fiat:524:Sedan
+Fiat:521:Convertible:Coupe:Sedan
+Fiat:1300/1500:Coupe:Family:Sedan:Station Wagon
+Fiat:600:Mini:Sedan
+Fiat:Linea:Compact:Sedan
+Fiat:Siena:Compact:Mini:Sedan:Subcompact
+Fiat:501:Convertible:Sedan
+Fiat:510:Convertible:Sedan
+Fiat:850:Coupe:Roadster:Sedan:Station Wagon:Van
+Fiat:Stilo:Compact:Hatchback:Station Wagon
+Fiat:502:Convertible:Sedan
+Fiat:132/Argenta:Family:Sedan
+Fiat:8V:Sports
+Fiat:Cinquecento:Hatchback
+Fiat:515:Sedan
+Fiat:60 HP:Luxury
+Fiat:70:Sedan
+Fiat:Zero:Compact
+Fiat:1:Sedan
+Fiat:125:Coupe:Family:Sedan:Station Wagon
+Fiat:24-32 HP:Luxury
+Fiat:512:Convertible:Sedan
+Alfa Romeo:Spider:Roadster
+Alfa Romeo:8C Competizione:Coupe:Roadster:Sports
+Alfa Romeo:Brera:Coupe:Hatchback:Roadster:Sports
+Alfa Romeo:159:Sedan:Station Wagon
+Alfa Romeo:105 Series Coupes:Coupe:Sports
+Alfa Romeo:166:Sedan
+Alfa Romeo:8C:Luxury:Roadster:Sports
+Alfa Romeo:156:Sedan:Station Wagon
+Alfa Romeo:MiTo:Hatchback:Mini
+Alfa Romeo:2600:Coupe:Luxury:Sedan
+Alfa Romeo:145:Compact:Hatchback
+Alfa Romeo:75:Sedan
+Alfa Romeo:147:Compact:Hatchback
+Alfa Romeo:155:Sedan
+Alfa Romeo:Disco Volante:Coupe:Roadster
+Alfa Romeo:164:Sedan
+Alfa Romeo:Arna:Hatchback:Subcompact
+Alfa Romeo:Giulia:Sedan
+Alfa Romeo:Giulietta:Coupe:Sedan:Subcompact
+Alfa Romeo:GT:Coupe:Sports
+Alfa Romeo:6C:Luxury:Sports
+Alfa Romeo:GTV and Spider:Coupe:Sports
+Alfa Romeo:Montreal:Coupe:Sports
+Alfa Romeo:90:Sedan
+Alfa Romeo:Alfasud:Compact:Coupe:Hatchback:Sedan:Station Wagon
+Alfa Romeo:Alfa 6:Sedan
+Alfa Romeo:Alfetta:Coupe:Sedan
+Alfa Romeo:Sprint:Coupe
+Alfa Romeo:SZ:Coupe:Sports
+Alfa Romeo:1750:Sedan
+Alfa Romeo:G1:Luxury
+Alfa Romeo:1900:Coupe:Sedan
+Alfa Romeo:2000:Coupe:Sedan
+Alfa Romeo:Giulia TZ:Coupe
+Alfa Romeo:Giulietta:Sedan
+Alfa Romeo:33:Compact:Hatchback:Station Wagon
+Alfa Romeo:33 Stradale:Coupe:Sports
+Alfa Romeo:GTA:Coupe:Sports
+Alfa Romeo:Gran Sport Quattroruote:Roadster
+Alfa Romeo:33.2:Coupe
+Volvo:140 Series:Coupe:Mid-size:Sedan:Station Wagon
+Volvo:164:Luxury:Sedan
+Volvo:200 Series:Coupe:Luxury:Mid-size:Sedan:Station Wagon
+Volvo:300 Series:Compact:Hatchback:Sedan
+Volvo:440/460:Compact:Hatchback:Sedan
+Volvo:480:Compact:Hatchback
+Volvo:66:Sedan:Station Wagon
+Volvo:700 Series:Luxury:Mid-size
+Volvo:850:Sedan:Station Wagon
+Volvo:C30:Compact:Hatchback
+Volvo:C70:Coupe
+Volvo:P1800:Coupe:Sports:Station Wagon
+Volvo:P1900:Roadster
+Volvo:PV444/544:Hatchback
+Volvo:PV 60:Sedan
+Volvo:PV 36 Carioca:Sedan
+Volvo:PV51-57:Sedan
+Volvo:PV801-10:Sedan
+Volvo:V40:Compact
+Volvo:S60:Sedan
+Volvo:S70:Mid-size:Sedan
+Volvo:S80:Luxury:Mid-size:Sedan
+Volvo:V50:Compact
+Volvo:V70:Mid-size:SUV:Station Wagon
+Volvo:VCC:Luxury:Sedan:Station Wagon
+Volvo:XC60:SUV
+Volvo:XC90:Mid-size:SUV
+Lancia:Dedra:Family:Sedan:Station Wagon
+Lancia:Delta:Compact:Hatchback
+Lancia:Kappa:Coupe:Sedan:Station Wagon
+Lancia:Autobianchi Y10:Hatchback
+Lancia:Lambda:Sedan
+Lancia:Lybra:Sedan:Station Wagon
+Lancia:Appia:Compact:Convertible:Coupe:Sedan:Station Wagon
+Lancia:Montecarlo:Convertible:Coupe:Sports
+Lancia:Prisma:Mid-size:Sedan
+Lancia:Stratos:Sports
+Lancia:Beta:Coupe:Sedan:Station Wagon
+Lancia:Thesis:Sedan
+Lancia:Ypsilon:Hatchback:Mini
+Lancia:Artena:Convertible:Coupe:Sedan
+Lancia:Musa:Mini
+Lancia:Flavia:Coupe:Mid-size:Sedan
+Lancia:Gamma:Coupe
+Lancia:Dilambda:Sedan
+Lancia:2000:Coupe:Mid-size:Sedan
+Lancia:Alfa-12HP:Coupe
+Lancia:Aprilia:Sedan
+Lancia:Aurelia:Convertible:Coupe:Sedan
+Lancia:Thema:Sedan:Station Wagon
+Lancia:Ardea:Sedan
+Lancia:Flaminia:Coupe:Luxury:Mini:Sedan
+Lancia:Astura:Sedan
+Lancia:Fulvia:Compact:Coupe:Sedan
+Lancia:Augusta:Convertible:Sedan
+Lancia:Trevi:Sedan
+Lancia:Dialfa-18HP:Convertible
+Lancia:Fulvia Dunja:Compact:Coupe
+Volkswagen Passenger:Bentley Continental Flying Spur:Full-size:Luxury:Sedan
+Volkswagen Passenger:Volkswagen Polo Mk IV:Mini:Sedan
+Volkswagen Passenger:Volkswagen Polo Mk III:Mini:Sedan
+Volkswagen Passenger:Porsche Cayenne:Luxury:Mid-size:SUV
+Volkswagen Passenger:Shanghai-Volkswagen Lavida:Compact:Sedan
+Volkswagen Passenger:Volkswagen 181:Convertible:SUV
+Volkswagen Passenger:Volkswagen Beetle:Economy:Sedan:Subcompact
+Volkswagen Passenger:Volkswagen Brasilia:Economy
+Volkswagen Passenger:Volkswagen CC:Coupe:Family:Full-size:Mid-size:Sedan
+Volkswagen Passenger:Volkswagen Citi Golf:Compact:Hatchback
+Volkswagen Passenger:Volkswagen Concept BlueSport:Roadster
+Volkswagen Passenger:Volkswagen Corrado:Coupe
+Volkswagen Passenger:Volkswagen Derby:Coupe:Mini:Sedan
+Volkswagen Passenger:Volkswagen Eos:Compact:Convertible:Coupe
+Volkswagen Passenger:Volkswagen Transporter:Mini:Truck:Van
+Volkswagen Passenger:Volkswagen Fox:Hatchback:Mini:SUV:Station Wagon:Subcompact
+Volkswagen Passenger:Volkswagen Gol:Hatchback:Station Wagon:Subcompact:Truck
+Volkswagen Passenger:Volkswagen Golf Cabriolet:Compact:Subcompact
+Volkswagen Passenger:Volkswagen Golf Mk5:Compact:Hatchback:Station Wagon
+Volkswagen Passenger:Volkswagen Golf Variant:Station Wagon
+Volkswagen Passenger:Volkswagen Iltis:Convertible
+Volkswagen Passenger:Volkswagen Jetta:Compact:Subcompact
+Volkswagen Passenger:Volkswagen K70:Mid-size:Sedan
+Volkswagen Passenger:Volkswagen Karmann Ghia:Coupe:Sports
+Volkswagen Passenger:Volkswagen Kübelwagen:Roadster
+Volkswagen Passenger:Volkswagen LT:Truck:Van
+Volkswagen Passenger:Volkswagen New Beetle:Compact:Hatchback:Sedan:Subcompact
+Volkswagen Passenger:Volkswagen Passat:Compact:Family:Mid-size:Sedan:Station Wagon
+Volkswagen Passenger:Volkswagen Phaeton:Full-size:Luxury:Sedan
+Volkswagen Passenger:Volkswagen Polo:Hatchback:Mini:Sedan:Station Wagon:Subcompact
+Volkswagen Passenger:Volkswagen Polo Mk5:Hatchback:Mini
+Volkswagen Passenger:Volkswagen Golf:Compact:Subcompact
+Volkswagen Passenger:Volkswagen Sharan:Mini
+Volkswagen Passenger:Volkswagen SP2:Sports
+Volkswagen Passenger:Volkswagen Tiguan:Compact:SUV
+Volkswagen Passenger:Volkswagen Touareg:Luxury:Mid-size:SUV
+Volkswagen Passenger:Volkswagen Touran:Mini
+Volkswagen Passenger:Volkswagen Type 2:Truck:Van
+Volkswagen Passenger:Volkswagen Type 2 (T3):Mini:Van
+Volkswagen Passenger:Volkswagen Type 3:Compact:Coupe:Hatchback:Station Wagon
+Volkswagen Passenger:Volkswagen Type 4:Sedan:Station Wagon
+Pontiac:Aztek:Mid-size:SUV
+Pontiac:Vibe:Compact:Hatchback
+Pontiac:Grand Am:Coupe:Sedan
+Pontiac:Firebird:Coupe
+Pontiac:G8:Coupe:Full-size:Sedan:Truck
+Pontiac:Grand Prix:Luxury:Mid-size
+Pontiac:Solstice:Coupe:Roadster
+Pontiac:G6:Convertible:Coupe:Mid-size:Sedan
+Pontiac:G5:Compact:Coupe:Sedan
+Pontiac:Montana:Mini
+Pontiac:2+2:Coupe
+Pontiac:6000:Coupe:Mid-size:Sedan:Station Wagon
+Pontiac:Trans Sport:Mini
+Pontiac:Bonneville:Full-size:Mid-size
+Pontiac:Catalina:Full-size
+Pontiac:Parisienne:Coupe:Full-size:Sedan
+Pontiac:Sunbird:Compact:Subcompact
+Pontiac:Sunfire:Compact:Coupe:Sedan
+Pontiac:Grand Ville:Coupe:Full-size:Sedan
+Pontiac:LeMans:Mid-size
+Pontiac:Star Chief:Coupe:Full-size:Sedan:Station Wagon
+Pontiac:Executive:Full-size:Sedan:Station Wagon
+Pontiac:Fiero:Sports
+Pontiac:Torrent:Mid-size:SUV
+Pontiac:Chieftain:Convertible:Coupe:Full-size:Sedan:Station Wagon
+Pontiac:Phoenix:Compact
+Pontiac:Pathfinder:Sedan
+Triumph:TR6:Roadster
+Triumph:TR7:Coupe:Roadster:Sports
+Triumph:TR2:Sports
+Triumph:TR250:Convertible:Sports
+Triumph:TR3:Sports
+Triumph:TR3A:Roadster:Sports
+Triumph:TR3B:Sports
+Triumph:TR4:Roadster:Sports
+Triumph:TR4A:Roadster:Sports
+Triumph:Roadster:Sports
+Triumph:GT6:Sports
+Triumph:TR5:Sports
+Triumph:Italia:Sports
+Triumph:Mayflower:Convertible:Sedan
+Triumph:TR8:Convertible:Coupe:Sports
+Triumph:Vitesse:Convertible:Sedan
+Audi:R8:Coupe:Sports
+Audi:TT:Compact:Coupe:Roadster:Sports
+Audi:A8:Full-size:Luxury:Sedan
+Audi:A3:Compact:Hatchback
+Audi:A5:Coupe:Full-size:Hatchback:Mid-size:Sedan
+Audi:RS 4:Sports
+Audi:RS 6:Luxury:Mid-size:Sedan:Sports:Station Wagon
+Audi:S4:Sports
+Audi:A6:Luxury:Mid-size:Sedan:Station Wagon
+Audi:Q7:Full-size:Luxury:SUV
+Audi:V8:Full-size:Luxury:Sedan
+Audi:Nuvolari quattro:Coupe:Sports
+Audi:Q5:SUV:Station Wagon
+Audi:A1:Hatchback:Mini
+Audi:Avus quattro:Coupe
+Audi:100:Luxury:Mid-size
+Audi:4000CS Quattro:Sedan
+Audi:S6:Luxury:Mid-size:Sedan:Sports:Station Wagon
+Audi:A2:Hatchback:Mini
+Audi:S8:Full-size:Luxury:Sedan:Sports
+Audi:Le Mans quattro:Coupe:Sports
+Audi:Roadjet:Hatchback
+Audi:Allroad:SUV:Station Wagon
+Audi:Rosemeyer:Coupe
+Audi:Avantissimo:Station Wagon
+Audi:Coupe GT:Coupe
+Audi:RSQ:Coupe
+Audi:Shooting Brake:Hatchback
+Audi:Quattro:Coupe
+Audi:50:Hatchback:Mini
+Audi:Sportback concept:Luxury
+Audi:RS 2 Avant:Sports:Station Wagon
+Audi:e-tron:Roadster:Sports
+Audi:Pikes Peak quattro:SUV
+Audi:Q3:SUV
+Audi:Coupé:Coupe
+Audi:80:Mid-size
+Hyundai:Accent:Compact:Subcompact
+Hyundai:Atos:Hatchback
+Hyundai:Grandeur:Full-size:Mid-size:Sedan
+Hyundai:e-Mighty:Truck
+Hyundai:Entourage:Mini
+Hyundai:Equus:Full-size:Luxury:Sedan
+Hyundai:Excel:Hatchback:Sedan:Subcompact
+Hyundai:Genesis:Full-size:Sedan
+Hyundai:Genesis Coupe:Coupe:Sports
+Hyundai:Getz:Hatchback:Mini:Subcompact
+Hyundai:i10:Hatchback
+Hyundai:i20:Mini:Subcompact
+Hyundai:i30:Compact:Hatchback:Station Wagon
+Hyundai:Marcia:Mid-size
+Hyundai:Mighty II:Truck
+Hyundai:Pony:Subcompact
+Hyundai:Portico:Full-size:SUV
+Hyundai:Santa Fe:Mid-size:SUV
+Hyundai:Scoupe:Coupe:Sports
+Hyundai:Sonata:Mid-size:Sedan
+Hyundai:Stellar:Mid-size
+Hyundai:Terracan:SUV
+Hyundai:Tiburon:Compact:Coupe:Sports
+Hyundai:Trajet:Mini
+Hyundai:Tucson:SUV
+Hyundai:Veracruz:Full-size:Mid-size:SUV
+Hyundai:Verna:Subcompact
+Hyundai:Kia Optima:Mid-size:Sedan
+Peugeot:206:Hatchback:Mini:Sedan:Station Wagon
+Peugeot:1007:Hatchback
+Peugeot:407:Coupe:Family:Sedan:Station Wagon
+Peugeot:205:Hatchback:Mini
+Peugeot:207:Hatchback:Mini:Station Wagon
+Peugeot:504:Coupe:Family:Sedan:Station Wagon:Truck
+Peugeot:309:Compact:Hatchback
+Peugeot:4007:Mini:SUV
+Peugeot:Partner:Mini:Truck
+Peugeot:307:Compact:Hatchback:Sedan:Station Wagon
+Peugeot:3008:Mini:SUV
+Peugeot:403:Coupe:Family:Sedan:Station Wagon:Truck
+Peugeot:106:Mini
+Peugeot:402:Convertible:Coupe:Family:Sedan
+Peugeot:Expert:Van
+Peugeot:405:Family:Sedan
+Peugeot:505:Family:Sedan:Station Wagon
+Peugeot:306:Compact:Sedan
+Peugeot:104:Hatchback:Mini:Sedan
+Peugeot:404:Coupe:Family:Sedan:Station Wagon
+Peugeot:406:Coupe:Family:Sedan:Station Wagon
+Peugeot:201:Sedan
+Peugeot:203:Coupe:Sedan:Station Wagon
+Peugeot:301:Convertible:Coupe:Sedan
+Peugeot:204:Compact:Coupe:Sedan:Station Wagon:Van
+Peugeot:302:Compact:Convertible:Coupe:Sedan
+Peugeot:604:Sedan
+Peugeot:Type 190:Roadster
+Peugeot:605:Sedan
+Peugeot:304:Compact:Coupe:Sedan:Station Wagon:Van
+Peugeot:607:Sedan
+Peugeot:305:Compact:Sedan:Station Wagon
+Peugeot:308:Compact:Hatchback:Station Wagon
+Peugeot:Talbot Samba:Convertible:Hatchback:Mini
+Peugeot:Pars:Family:Sedan
+Peugeot:401:Family
+Peugeot:Type 153:Mid-size
+Peugeot:Type 159:Compact
+Peugeot:Type 16:Family
+Peugeot:Type 26:Compact
+Peugeot:Type 66:Full-size
+Chrysler:Jeep Grand Cherokee:SUV
+Chrysler:300:Full-size:Luxury:Sedan:Station Wagon
+Chrysler:Dodge Charger:Coupe:Mid-size
+Chrysler:Jeep Compass:SUV
+Chrysler:Plymouth Prowler:Roadster:Sports
+Chrysler:Jeep Wrangler:SUV
+Chrysler:PT Cruiser:Compact:Convertible:Hatchback:SUV:Station Wagon
+Chrysler:Jeep Patriot:SUV
+Chrysler:SRT Viper:Sports
+Chrysler:Crossfire:Coupe:Sports
+Chrysler:Dodge Caravan:Mini
+Chrysler:Dodge Aries:Compact:Coupe:Sedan:Station Wagon
+Chrysler:Voyager:Mini
+Chrysler:Dodge Ram:Truck
+Chrysler:Town and Country:Compact:Full-size:Mid-size:Mini
+Chrysler:Jeep Liberty:SUV
+Chrysler:Dodge Charger:Subcompact
+Chrysler:Jeep Cherokee (XJ):SUV
+Chrysler:Dodge Caliber:Compact:Hatchback:Station Wagon
+Chrysler:Dodge Avenger:Mid-size
+Chrysler:Sebring:Compact:Coupe:Luxury:Mid-size:Sedan
+Chrysler:Fifth Avenue:Full-size:Sedan
+Chrysler:Plymouth Reliant:Compact:Coupe:Sedan:Station Wagon
+Chrysler:200C EV:Mid-size:Sedan
+Chrysler:Dodge Intrepid:Full-size:Sedan
+Chrysler:Plymouth Valiant:Compact
+Chrysler:Jeep Comanche:Truck
+Chrysler:Plymouth Voyager:Full-size:Mini:Van
+Chrysler:LHS:Full-size:Sedan
+Chrysler:Plymouth Sundance:Compact:Coupe:Hatchback:Sedan
+Chrysler:Windsor:Coupe:Full-size:Sedan
+Chrysler:Dodge Stratus:Mid-size
+Chrysler:Dodge Nitro:SUV
+Chrysler:Jeep Commander:SUV
+Chrysler:Eagle Premier:Full-size:Sedan
+Chrysler:Plymouth Satellite:Convertible:Coupe:Mid-size:Sedan:Station Wagon
+Chrysler:Dodge Daytona:Compact:Hatchback
+Chrysler:Eagle Vision:Full-size:Sedan
+Chrysler:Plymouth Savoy:Full-size
+Chrysler:Airflow:Coupe:Sedan
+Chrysler:Aspen:Full-size:SUV
+Chrysler:Pacifica:Mid-size:SUV
+Chrysler:Dodge Aspen:Compact:Coupe:Sedan:Station Wagon
+Chrysler:Cirrus:Luxury:Mid-size:Sedan
+Chrysler:Concorde:Full-size:Sedan
+Chrysler:Cordoba:Coupe:Luxury
+Chrysler:Dodge Ramcharger:Full-size:SUV
+Chrysler:Dodge Shadow:Compact:Hatchback
+Chrysler:AMC Eagle:Compact:Coupe:Hatchback:Sedan:Station Wagon
+Chrysler:Valiant:Coupe:Full-size:Sedan:Station Wagon
+Chrysler:Royal:Full-size:Sedan:Station Wagon
+Chrysler:Valiant Charger:Coupe
+Chrysler:Horizon:Hatchback:Subcompact
+Chrysler:Imperial:Full-size:Luxury
+Chrysler:Dodge Dynasty:Mid-size:Sedan
+Chrysler:Dodge St. Regis:Full-size:Sedan
+Chrysler:300M:Full-size:Luxury:Sedan
+Chrysler:Dodge Mirada:Coupe:Mid-size
+Chrysler:Newport:Full-size
+Chrysler:Dodge A100:Truck:Van
+Chrysler:Neon:Compact
+Chrysler:Dodge Omni:Hatchback:Subcompact
+Chrysler:Dodge Ram Van:Van
+Chrysler:E-Class:Mid-size:Sedan
+Chrysler:Mitsubishi Raider:Mid-size:Truck
+Chrysler:Dodge Coronet:Coupe:Full-size:Mid-size:Sedan
+Chrysler:Dodge Spirit:Mid-size:Sedan
+Chrysler:Plymouth Breeze:Mid-size:Sedan
+Chrysler:Turbine Car:Coupe
+Chrysler:Nassau:Full-size:Station Wagon
+Chrysler:Shelby Charger:Hatchback:Subcompact
+Chrysler:Shelby CSX:Compact:Hatchback
+Chrysler:Shelby GLHS:Hatchback:Subcompact
+Chrysler:Shelby Lancer:Hatchback:Mid-size
+Chrysler:Sigma:Coupe:Mid-size:Sedan:Station Wagon
+Chrysler:Dodge Omni 024:Hatchback:Subcompact
+Chrysler:300 non-letter series:Convertible:Coupe:Sedan
+Chrysler:180:Sedan
+Chrysler:Executive:Sedan
+Chrysler:Sunbeam:Hatchback:Mini
+Chrysler:Centura:Mid-size:Sedan
+Chrysler:Natrium:Mini
+Chrysler:200:Convertible:Mid-size:Sedan
