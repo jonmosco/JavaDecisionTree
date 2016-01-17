@@ -48,27 +48,30 @@ public class Ex {
 		n.setLeftChild(new BinaryTreeNode(3));
 		root.setRightChild(n);
 
+		System.out.println("displaying tree:");
 		displayTree(System.out, root);
+		System.out.println("");
+
+		System.out.println("sum: " + sumTree(root));
+		System.out.println("min: " + minTree(root));
+		System.out.println("max: " + maxTree(root));
 	}
 
 	public static void displayTree(PrintStream out,
 	    BinaryTreeNode<Long> node) {
 	}
 
-	public static Long sumTree(PrintStream out,
-	    BinaryTreeNode<Long> node) {
+	public static Long sumTree(BinaryTreeNode<Long> node) {
 	    	Long sum = new Long(0);
 	    	return sum;
 	}
 
-	public static Long minTree(PrintStream out,
-	    BinaryTreeNode<Long> node) {
+	public static Long minTree(BinaryTreeNode<Long> node) {
 	    	Long min = new Long(0);
 	    	return min;
 	}
 
-	public static Long maxTree(PrintStream out,
-	    BinaryTreeNode<Long> node) {
+	public static Long maxTree(BinaryTreeNode<Long> node) {
 	    	Long max = new Long(0);
 	    	return max;
 	}
